@@ -1,0 +1,1387 @@
+﻿Log file open, 04/08/20 14:38:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FinalLandscape
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1172555417) SRandInit(1172555417).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.180401
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/UnrealEnginePython/Binaries/Win64/UE4Editor-UnrealEnginePython.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/UnrealEnginePython/Binaries/Win64/UE4Editor-PythonConsole.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/UnrealEnginePython/Binaries/Win64/UE4Editor-PythonEditor.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.04.08-10.08.45:769][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.08-10.08.45:769][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.08-10.08.45:817][  0]LogInit: Computer: MAHDI-MSI
+[2020.04.08-10.08.45:817][  0]LogInit: User: Mahdi
+[2020.04.08-10.08.45:817][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.08-10.08.45:817][  0]LogInit: High frequency timer resolution =2.728134 MHz
+[2020.04.08-10.08.45:817][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.04.08-10.08.45:817][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.08-10.08.45:817][  0]LogMemory: Process Physical Memory: 274.40 MB used, 274.40 MB peak
+[2020.04.08-10.08.45:817][  0]LogMemory: Process Virtual Memory: 273.27 MB used, 273.27 MB peak
+[2020.04.08-10.08.45:817][  0]LogMemory: Physical Memory: 4558.07 MB used,  3556.69 MB free, 8114.76 MB total
+[2020.04.08-10.08.45:817][  0]LogMemory: Virtual Memory: 619.66 MB used,  3556.69 MB free, 8388608.00 MB total
+[2020.04.08-10.08.46:310][  0]LogInit: Using OS detected language (fa-IR).
+[2020.04.08-10.08.46:310][  0]LogInit: Using OS detected locale (fa-IR).
+[2020.04.08-10.08.46:455][  0]LogTextLocalizationManager: No localization for 'fa-IR' exists, so 'en' will be used for the language.
+[2020.04.08-10.08.46:456][  0]LogTextLocalizationManager: No localization for 'fa-IR' exists, so 'en' will be used for the locale.
+[2020.04.08-10.08.47:136][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2020.04.08-10.08.47:136][  0]LogWindows: File 'shcore.dll' does not exist
+[2020.04.08-10.08.47:136][  0]LogInit: Setting process to DPI aware
+[2020.04.08-10.08.47:263][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2020.04.08-10.08.47:263][  0]LogWindows: File 'shcore.dll' does not exist
+[2020.04.08-10.08.47:263][  0]LogInit: Setting process to DPI aware
+[2020.04.08-10.08.49:068][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.08-10.08.49:161][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 740M' (Feature Level 11_0)
+[2020.04.08-10.08.49:161][  0]LogD3D11RHI:       1986/0/3801 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.08-10.08.49:188][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GT 740M' (Feature Level 11_0)
+[2020.04.08-10.08.49:188][  0]LogD3D11RHI:       1986/0/3801 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2020.04.08-10.08.49:188][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.08-10.08.49:194][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.08-10.08.49:194][  0]LogD3D11RHI:     GPU DeviceId: 0x1292 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.08-10.08.49:194][  0]LogWindows: EnumDisplayDevices:
+[2020.04.08-10.08.49:195][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2020.04.08-10.08.49:195][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.04.08-10.08.49:195][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.04.08-10.08.49:195][  0]LogWindows:    3. 'NVIDIA GeForce GT 740M' (P:0 D:0)
+[2020.04.08-10.08.49:195][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2020.04.08-10.08.49:196][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2020.04.08-10.08.49:196][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2020.04.08-10.08.49:196][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter 
+[2020.04.08-10.08.49:196][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 740M
+[2020.04.08-10.08.49:196][  0]LogD3D11RHI:   Driver Version: 425.31 (internal:25.21.14.2531, unified:425.31)
+[2020.04.08-10.08.49:196][  0]LogD3D11RHI:      Driver Date: 4-9-2019
+[2020.04.08-10.08.49:196][  0]LogRHI: Texture pool is 1390 MB (70% of 1986 MB)
+[2020.04.08-10.08.49:224][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.08-10.08.49:242][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.04.08-10.08.49:242][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Intermediate/Shaders/WorkingDirectory/9076/).
+[2020.04.08-10.08.49:242][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mahdi/AppData/Local/Temp/UnrealShaderWorkingDir/03D9052543D08B3508C3D89D7B9713F0/'.
+[2020.04.08-10.08.49:242][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.08-10.08.52:986][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.04.08-10.08.53:075][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.04.08-10.08.53:163][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.04.08-10.08.53:251][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.04.08-10.08.53:356][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.04.08-10.08.53:444][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.04.08-10.08.53:532][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.04.08-10.08.53:620][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.04.08-10.08.53:700][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.04.08-10.08.53:787][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.04.08-10.08.53:888][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.04.08-10.08.53:976][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.04.08-10.08.54:063][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.04.08-10.08.54:149][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.04.08-10.08.54:322][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.04.08-10.08.54:322][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.04.08-10.08.54:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.08-10.08.54:498][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.04.08-10.08.54:682][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.04.08-10.08.54:724][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.04.08-10.08.54:810][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.04.08-10.08.54:898][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.04.08-10.08.54:986][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.04.08-10.08.55:082][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.04.08-10.08.55:082][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.08-10.08.56:309][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.08-10.08.56:927][  0]LogDerivedDataCache: Loaded boot cache 0.62s 78MB C:/Users/Mahdi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.04.08-10.08.56:927][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mahdi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.04.08-10.08.56:928][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.08-10.08.56:928][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.08-10.08.56:928][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.08-10.08.56:928][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.08-10.08.57:006][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.08-10.08.57:017][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mahdi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.08-10.08.57:028][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.08-10.08.57:028][  0]LogSlate: Using Freetype 2.6.0
+[2020.04.08-10.08.57:068][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.08-10.08.57:068][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.08-10.09.00:235][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.08-10.09.00:987][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.04.08-10.09.01:067][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.04.08-10.09.01:067][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.08-10.09.01:067][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.04.08-10.09.01:067][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.04.08-10.09.01:067][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.04.08-10.09.01:112][  0]LogNetVersion: FinalLandscape , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1576872028)
+[2020.04.08-10.09.01:407][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
+[2020.04.08-10.09.04:566][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 1 prioritized culture(s) in 0.034573 seconds
+[2020.04.08-10.09.04:571][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2020.04.08-10.09.04:571][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2020.04.08-10.09.04:571][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.08-10.09.04:675][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.04.08-10.09.16:310][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.08-10.09.16:386][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.08-10.09.18:654][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.04.08-10.09.19:830][  0]SourceControl: Source control is disabled
+[2020.04.08-10.09.19:830][  0]SourceControl: Source control is disabled
+[2020.04.08-10.09.20:012][  0]SourceControl: Source control is disabled
+[2020.04.08-10.09.20:188][  0]SourceControl: Source control is disabled
+[2020.04.08-10.09.22:395][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.08-10.09.22:973][  0]LogOcInput: OculusInput pre-init called
+[2020.04.08-10.09.23:693][  0]LogPython: Python Scripts search path: ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Scripts
+[2020.04.08-10.09.23:693][  0]LogPython: Python Scripts search path: ../../../Engine/Plugins/UnrealEnginePython
+[2020.04.08-10.09.23:693][  0]LogPython: Python VM initialized: 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]
+[2020.04.08-10.09.25:078][  0]LogPython: ####################----------Python Integration for Megascans Initialized----------####################
+[2020.04.08-10.09.25:078][  0]LogPython: 
+
+[2020.04.08-10.09.25:078][  0]LogPython: C:\Program Files\Epic Games\UE_4.18\Engine\Plugins\UnrealEnginePython\
+[2020.04.08-10.09.25:078][  0]LogPython: 
+
+[2020.04.08-10.09.26:338][  0]LogPython: Megascans Integration - LiveLink Initialized...
+[2020.04.08-10.09.26:338][  0]LogPython: 
+
+[2020.04.08-10.09.26:405][  0]LogPython: ue_site Python module successfully imported
+[2020.04.08-10.09.27:257][  0]LogEngine: Initializing Engine...
+[2020.04.08-10.09.27:319][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.08-10.09.28:211][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.04.08-10.09.28:211][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.04.08-10.09.28:712][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.08-10.09.28:784][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.08-10.09.28:830][  0]LogInit: FAudioDevice initialized.
+[2020.04.08-10.09.29:013][  0]LogDerivedDataCache: Saved boot cache 0.17s 78MB C:/Users/Mahdi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.04.08-10.09.29:036][  0]LogInit: Texture streaming: Enabled
+[2020.04.08-10.09.29:342][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.08-10.09.29:747][  0]LogInit: Transaction tracking system initialized
+[2020.04.08-10.09.30:607][  0]BlueprintLog: New page: Editor Load
+[2020.04.08-10.09.32:970][  0]LocalizationService: Localization service is disabled
+[2020.04.08-10.09.35:278][  0]LogConsoleResponse: Display: 
+[2020.04.08-10.09.38:648][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/' took 0.05s
+[2020.04.08-10.09.38:648][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.08-10.09.38:648][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.08-10.09.38:668][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.04.08-10.09.43:228][  0]SourceControl: Source control is disabled
+[2020.04.08-10.09.43:243][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/MainLand.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.08-10.09.43:272][  0]LightingResults: New page: Lighting Build
+[2020.04.08-10.09.43:404][  0]MapCheck: New page: Map Check
+[2020.04.08-10.09.43:404][  0]LightingResults: New page: Lighting Build
+[2020.04.08-10.09.44:350][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:350][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:358][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:359][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:360][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:360][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:360][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:360][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:360][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:360][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:360][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:360][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:360][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:360][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:360][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:360][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:360][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:360][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:360][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:361][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:361][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:361][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:361][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:361][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:361][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:361][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:361][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:361][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:361][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:361][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:361][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:361][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:361][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:361][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:361][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:361][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:361][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:362][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:362][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:362][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:362][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:362][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:362][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:362][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:362][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:362][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:362][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:362][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:362][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:362][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:362][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:527][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:527][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:527][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:528][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:528][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:528][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:529][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:529][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:529][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:530][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:530][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_10
+[2020.04.08-10.09.44:530][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:530][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_10
+[2020.04.08-10.09.44:530][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:530][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:530][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_10
+[2020.04.08-10.09.44:530][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:530][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_10
+[2020.04.08-10.09.44:530][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:530][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:530][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_10
+[2020.04.08-10.09.44:530][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:530][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_10
+[2020.04.08-10.09.44:530][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:531][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:531][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_11
+[2020.04.08-10.09.44:531][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:531][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_11
+[2020.04.08-10.09.44:531][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:531][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:531][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_11
+[2020.04.08-10.09.44:531][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:531][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_11
+[2020.04.08-10.09.44:531][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:531][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:531][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_11
+[2020.04.08-10.09.44:531][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:531][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_11
+[2020.04.08-10.09.44:531][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:532][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:532][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_12
+[2020.04.08-10.09.44:532][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:532][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_12
+[2020.04.08-10.09.44:532][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:532][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:532][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_12
+[2020.04.08-10.09.44:532][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:532][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_12
+[2020.04.08-10.09.44:532][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:532][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:532][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_12
+[2020.04.08-10.09.44:532][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:532][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_12
+[2020.04.08-10.09.44:532][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:532][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:532][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_13
+[2020.04.08-10.09.44:533][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:533][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_13
+[2020.04.08-10.09.44:533][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:533][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:533][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_13
+[2020.04.08-10.09.44:533][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:533][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_13
+[2020.04.08-10.09.44:533][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:533][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:533][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_13
+[2020.04.08-10.09.44:533][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:533][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_13
+[2020.04.08-10.09.44:533][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:533][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:533][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_14
+[2020.04.08-10.09.44:533][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:533][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_14
+[2020.04.08-10.09.44:533][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:534][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:534][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_14
+[2020.04.08-10.09.44:534][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:534][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_14
+[2020.04.08-10.09.44:534][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:534][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:534][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_14
+[2020.04.08-10.09.44:534][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:534][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_14
+[2020.04.08-10.09.44:534][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:534][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:534][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_17
+[2020.04.08-10.09.44:534][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:534][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_17
+[2020.04.08-10.09.44:534][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:534][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:534][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_17
+[2020.04.08-10.09.44:534][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:535][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_17
+[2020.04.08-10.09.44:535][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:535][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:535][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_17
+[2020.04.08-10.09.44:535][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:535][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_17
+[2020.04.08-10.09.44:535][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:535][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:535][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_18
+[2020.04.08-10.09.44:535][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:535][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_18
+[2020.04.08-10.09.44:535][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:535][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:535][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_18
+[2020.04.08-10.09.44:535][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:535][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_18
+[2020.04.08-10.09.44:535][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:535][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:536][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_18
+[2020.04.08-10.09.44:536][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:536][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_18
+[2020.04.08-10.09.44:536][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:536][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:536][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_9
+[2020.04.08-10.09.44:536][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:536][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_9
+[2020.04.08-10.09.44:536][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:536][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:536][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_9
+[2020.04.08-10.09.44:536][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:536][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_9
+[2020.04.08-10.09.44:536][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:536][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:536][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_9
+[2020.04.08-10.09.44:536][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:537][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_9
+[2020.04.08-10.09.44:537][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:539][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:539][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_343
+[2020.04.08-10.09.44:539][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:539][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_343
+[2020.04.08-10.09.44:539][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:539][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:539][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_343
+[2020.04.08-10.09.44:539][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:539][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_343
+[2020.04.08-10.09.44:539][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:539][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:540][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_10
+[2020.04.08-10.09.44:540][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:540][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_10
+[2020.04.08-10.09.44:540][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:540][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:540][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_10
+[2020.04.08-10.09.44:540][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:540][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_10
+[2020.04.08-10.09.44:540][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:540][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:540][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_120
+[2020.04.08-10.09.44:540][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:540][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_120
+[2020.04.08-10.09.44:540][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:541][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:541][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_121
+[2020.04.08-10.09.44:541][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:541][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_121
+[2020.04.08-10.09.44:541][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:541][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:541][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_122
+[2020.04.08-10.09.44:541][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:541][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_122
+[2020.04.08-10.09.44:541][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:541][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:541][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_123
+[2020.04.08-10.09.44:541][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:541][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_123
+[2020.04.08-10.09.44:541][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:542][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:542][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_323
+[2020.04.08-10.09.44:542][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:542][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_323
+[2020.04.08-10.09.44:542][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:542][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:542][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_415
+[2020.04.08-10.09.44:542][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:542][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_415
+[2020.04.08-10.09.44:542][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:542][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:542][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_415
+[2020.04.08-10.09.44:543][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:543][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_415
+[2020.04.08-10.09.44:543][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:543][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:543][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_244
+[2020.04.08-10.09.44:544][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:544][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_244
+[2020.04.08-10.09.44:544][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:547][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:547][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:547][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:547][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:547][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:547][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:547][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:547][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:547][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:547][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:547][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:547][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:547][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:547][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:547][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:547][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:548][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:548][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:548][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:548][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:548][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:548][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:548][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:548][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:548][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:548][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:548][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:548][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:548][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:548][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:548][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:548][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:548][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:548][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:548][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:548][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:549][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:549][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:549][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:549][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:549][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:549][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:549][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:549][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:549][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:549][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:549][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:549][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:552][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Component class is not set for 'Tire1' - this component will not be instanced, and additional warnings or errors may occur when compiling Blueprint 'VehicleBlueprint'.
+[2020.04.08-10.09.44:553][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Component class is not set for 'Tire2' - this component will not be instanced, and additional warnings or errors may occur when compiling Blueprint 'VehicleBlueprint'.
+[2020.04.08-10.09.44:553][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Component class is not set for 'Tire3' - this component will not be instanced, and additional warnings or errors may occur when compiling Blueprint 'VehicleBlueprint'.
+[2020.04.08-10.09.44:553][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Component class is not set for 'Tire4' - this component will not be instanced, and additional warnings or errors may occur when compiling Blueprint 'VehicleBlueprint'.
+[2020.04.08-10.09.44:553][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Component class is not set for 'revbeep' - this component will not be instanced, and additional warnings or errors may occur when compiling Blueprint 'VehicleBlueprint'.
+[2020.04.08-10.09.44:553][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Component class is not set for 'Engine_2_(LH)' - this component will not be instanced, and additional warnings or errors may occur when compiling Blueprint 'VehicleBlueprint'.
+[2020.04.08-10.09.44:553][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Component class is not set for 'Engine_1_(HL)' - this component will not be instanced, and additional warnings or errors may occur when compiling Blueprint 'VehicleBlueprint'.
+[2020.04.08-10.09.44:553][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Component class is not set for 'Engine_3_(GM)' - this component will not be instanced, and additional warnings or errors may occur when compiling Blueprint 'VehicleBlueprint'.
+[2020.04.08-10.09.44:559][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Get : 'Tire2' variable not found. Base class was probably changed. /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.04.08-10.09.44:559][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Get : 'Tire3' variable not found. Base class was probably changed. /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.04.08-10.09.44:559][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Get : 'Tire4' variable not found. Base class was probably changed. /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.04.08-10.09.44:559][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Get : 'Tire1' variable not found. Base class was probably changed. /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.04.08-10.09.44:560][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Get : 'revbeep' variable not found. Base class was probably changed. /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.04.08-10.09.44:561][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Get : 'Engine_2_(LH)' variable not found. Base class was probably changed. /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.04.08-10.09.44:595][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Could not find a variable named "Engine_2_(LH)" in 'VehicleBlueprint_C'.
+Make sure 'VehicleBlueprint_C' has been compiled for  Get Engine_2_(LH)
+[2020.04.08-10.09.44:596][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  <Unnamed>  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.04.08-10.09.44:596][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  <Unnamed>  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.04.08-10.09.44:596][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  Target  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.04.08-10.09.44:596][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Input pin  Name  specifying non-default value no longer exists on node  Set Parameter . Please refresh node or reset pin to default value to remove pin.
+[2020.04.08-10.09.44:596][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  Value  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.04.08-10.09.44:596][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Could not find a function named "SetParameter" in 'VehicleBlueprint'.
+Make sure 'VehicleBlueprint' has been compiled for  Set Parameter
+[2020.04.08-10.09.44:598][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Can't connect pins  Target  and  Revbeep : Actor Component Object Reference is not compatible with Object Reference.
+[2020.04.08-10.09.44:598][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Can't connect pins  Target  and  Revbeep : Actor Component Object Reference is not compatible with Object Reference.
+[2020.04.08-10.09.44:598][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Can't connect pins  Revbeep  and  Target : Object Reference is not compatible with Actor Component Object Reference.
+[2020.04.08-10.09.44:598][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Could not find a variable named "revbeep" in 'VehicleBlueprint_C'.
+Make sure 'VehicleBlueprint_C' has been compiled for  Get revbeep
+[2020.04.08-10.09.44:598][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Could not find a variable named "Tire1" in 'VehicleBlueprint_C'.
+Make sure 'VehicleBlueprint_C' has been compiled for  Get Tire1
+[2020.04.08-10.09.44:598][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Could not find a variable named "Tire4" in 'VehicleBlueprint_C'.
+Make sure 'VehicleBlueprint_C' has been compiled for  Get Tire4
+[2020.04.08-10.09.44:598][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Could not find a variable named "Tire3" in 'VehicleBlueprint_C'.
+Make sure 'VehicleBlueprint_C' has been compiled for  Get Tire3
+[2020.04.08-10.09.44:598][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Could not find a variable named "Tire2" in 'VehicleBlueprint_C'.
+Make sure 'VehicleBlueprint_C' has been compiled for  Get Tire2
+[2020.04.08-10.09.44:599][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  <Unnamed>  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.04.08-10.09.44:599][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  <Unnamed>  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.04.08-10.09.44:599][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  Target  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.04.08-10.09.44:599][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Input pin  Name  specifying non-default value no longer exists on node  Set Parameter . Please refresh node or reset pin to default value to remove pin.
+[2020.04.08-10.09.44:599][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  Value  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.04.08-10.09.44:599][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Could not find a function named "SetParameter" in 'VehicleBlueprint'.
+Make sure 'VehicleBlueprint' has been compiled for  Set Parameter
+[2020.04.08-10.09.44:599][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  <Unnamed>  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.04.08-10.09.44:599][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  <Unnamed>  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.04.08-10.09.44:599][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  Target  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.04.08-10.09.44:599][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Input pin  Name  specifying non-default value no longer exists on node  Set Parameter . Please refresh node or reset pin to default value to remove pin.
+[2020.04.08-10.09.44:599][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  Value  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.04.08-10.09.44:599][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Could not find a function named "SetParameter" in 'VehicleBlueprint'.
+Make sure 'VehicleBlueprint' has been compiled for  Set Parameter
+[2020.04.08-10.09.44:608][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] The property associated with  Engine 2 (LH)  could not be found
+[2020.04.08-10.09.44:608][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] The property associated with  Tire 2  could not be found
+[2020.04.08-10.09.44:608][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] The property associated with  Tire 3  could not be found
+[2020.04.08-10.09.44:608][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] The property associated with  Tire 4  could not be found
+[2020.04.08-10.09.44:609][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] The property associated with  Tire 1  could not be found
+[2020.04.08-10.09.44:609][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] The property associated with  Revbeep  could not be found
+[2020.04.08-10.09.44:638][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] [0073.06] Compile of VehicleBlueprint failed. 24 Fatal Issue(s) 23 Warning(s) [in 86 ms] (/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint)
+[2020.04.08-10.09.44:640][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:640][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:640][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:641][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:641][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:641][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.44:644][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.04.08-10.09.44:644][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.04.08-10.09.44:644][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.04.08-10.09.49:286][  0]LogAIModule: Creating AISystem for world MainLand
+[2020.04.08-10.09.49:895][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.08-10.09.50:087][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.08-10.09.50:189][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.703ms to complete.
+[2020.04.08-10.09.50:189][  0]LogFileHelpers: Loading map 'MainLand' took 6.949
+[2020.04.08-10.09.51:420][  0]LogCollectionManager: Loaded 0 collections in 0.001967 seconds
+[2020.04.08-10.09.51:601][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Collections/' took 0.01s
+[2020.04.08-10.09.51:602][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Developers/Mahdi/Collections/' took 0.01s
+[2020.04.08-10.09.51:602][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Collections/' took 0.01s
+[2020.04.08-10.09.51:602][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.04.08-10.09.51:612][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2382 classes and 526 folders.
+[2020.04.08-10.09.51:780][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.08-10.09.52:938][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.08-10.09.53:058][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.04.08-10.09.53:689][  0]LogSlate: Took 0.014786 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.08-10.09.53:703][  0]LogSlate: Took 0.011400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.08-10.09.53:729][  0]LogSlate: Took 0.010316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.08-10.09.54:003][  0]LogRenderer: Reallocating scene render targets to support 972x476 Format 9 NumSamples 1 (Frame:1).
+[2020.04.08-10.09.54:889][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.04.08-10.09.54:890][  0]LogLoad: (Engine Initialization) Total time: 83.32 seconds
+[2020.04.08-10.09.54:890][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.08-10.09.54:894][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2020.04.08-10.09.55:010][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.04.08-10.09.55:224][  0]LogSlate: Took 0.014848 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.04.08-10.09.55:634][  4]LogPython: tcp server spawned on 127.0.0.1:13428
+[2020.04.08-10.09.55:645][  4]LogAssetRegistry: Asset discovery search completed in 54.2568 seconds
+[2020.04.08-10.09.55:648][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.04.08-10.09.55:648][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2020.04.08-10.10.03:439][708]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.08-10.10.07:207][ 23]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.04.08-10.10.13:041][414]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.04.08-10.10.29:719][414]LogLandscape: Warning: Duplicate ComponentBase -8, 7
+[2020.04.08-10.16.24:340][725]LogLandscape: Warning: Duplicate ComponentBase -8, 7
+[2020.04.08-10.16.24:340][725]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.04.08-10.16.35:830][469]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-10.22.39:549][234]LogSlate: Took 0.000356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.04.08-10.22.48:434][260]LogSavePackage: Save=79.97ms
+[2020.04.08-10.22.48:434][260]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x10_y06_Auto1ADC32ECA4F6D369CC37FD083BD0F559F.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x10_y06_Auto1.umap'
+[2020.04.08-10.22.48:447][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x10_y06_Auto1.umap
+[2020.04.08-10.22.48:488][260]LogSavePackage: Save=19.38ms
+[2020.04.08-10.22.48:488][260]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x10_y07_Auto1EAAA147E47208D89EFED98BB248BB861.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x10_y07_Auto1.umap'
+[2020.04.08-10.22.48:490][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x10_y07_Auto1.umap
+[2020.04.08-10.22.48:527][260]LogSavePackage: Save=20.10ms
+[2020.04.08-10.22.48:527][260]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x10_y08_Auto1F2E54179412D28231B7F1B8728998578.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x10_y08_Auto1.umap'
+[2020.04.08-10.22.48:528][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x10_y08_Auto1.umap
+[2020.04.08-10.22.48:546][260]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-10.22.48:642][260]LogSavePackage: Save=98.16ms
+[2020.04.08-10.22.48:642][260]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x10_y09_Auto1421F0472438380033997848CB9187E55.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x10_y09_Auto1.umap'
+[2020.04.08-10.22.48:643][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x10_y09_Auto1.umap
+[2020.04.08-10.22.48:682][260]LogSavePackage: Save=23.10ms
+[2020.04.08-10.22.48:682][260]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x11_y06_Auto11C392B184C2A8EF335EB0EA145E0EEB0.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x11_y06_Auto1.umap'
+[2020.04.08-10.22.48:683][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x11_y06_Auto1.umap
+[2020.04.08-10.22.48:719][260]LogSavePackage: Save=19.56ms
+[2020.04.08-10.22.48:719][260]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x11_y07_Auto1570E48CD41F6DB57F8A6A79D26E91727.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x11_y07_Auto1.umap'
+[2020.04.08-10.22.48:721][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x11_y07_Auto1.umap
+[2020.04.08-10.22.48:738][260]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-10.22.48:768][260]LogSavePackage: Save=31.90ms
+[2020.04.08-10.22.48:768][260]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x11_y09_Auto14AB69B1A46253C986B3BF2A61A7C0B89.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x11_y09_Auto1.umap'
+[2020.04.08-10.22.48:769][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x11_y09_Auto1.umap
+[2020.04.08-10.22.48:811][260]LogSavePackage: Save=24.23ms
+[2020.04.08-10.22.48:811][260]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x12_y06_Auto143A618B24CCFDBE259733195C8C816DF.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x12_y06_Auto1.umap'
+[2020.04.08-10.22.48:812][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x12_y06_Auto1.umap
+[2020.04.08-10.22.48:851][260]LogSavePackage: Save=22.02ms
+[2020.04.08-10.22.48:851][260]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x12_y10_Auto1B6F4F4B9465C02ABE2743DAB7E92A820.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x12_y10_Auto1.umap'
+[2020.04.08-10.22.48:852][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x12_y10_Auto1.umap
+[2020.04.08-10.22.48:984][260]LogSavePackage: Save=115.81ms
+[2020.04.08-10.22.48:984][260]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x13_y09_Auto15535EB3043F48E8228F064849EAC65CE.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x13_y09_Auto1.umap'
+[2020.04.08-10.22.48:986][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x13_y09_Auto1.umap
+[2020.04.08-10.22.48:987][260]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLand' took 0.795
+[2020.04.08-10.22.48:987][260]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.795
+[2020.04.08-10.33.07:839][ 57]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-10.33.07:898][ 57]LogSavePackage: Save=62.29ms
+[2020.04.08-10.33.07:898][ 57]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x10_y09_Auto2C2188EA347E8B2E59FC7C7A82BC6421A.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x10_y09_Auto2.umap'
+[2020.04.08-10.33.07:900][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x10_y09_Auto2.umap
+[2020.04.08-10.33.07:943][ 57]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-10.33.07:981][ 57]LogSavePackage: Save=63.98ms
+[2020.04.08-10.33.07:982][ 57]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x10_y10_Auto23BB90F07459C6C6A62E0AEBE14E0E3D7.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x10_y10_Auto2.umap'
+[2020.04.08-10.33.07:983][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x10_y10_Auto2.umap
+[2020.04.08-10.33.08:003][ 57]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-10.33.08:053][ 57]LogSavePackage: Save=52.44ms
+[2020.04.08-10.33.08:053][ 57]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x11_y08_Auto2028516BE4C72609C7F028F82B5AAAE76.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x11_y08_Auto2.umap'
+[2020.04.08-10.33.08:055][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x11_y08_Auto2.umap
+[2020.04.08-10.33.08:093][ 57]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-10.33.08:117][ 57]LogSavePackage: Save=45.44ms
+[2020.04.08-10.33.08:117][ 57]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x11_y09_Auto249BB709F4CE6E901719ECA8F9E1D677B.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x11_y09_Auto2.umap'
+[2020.04.08-10.33.08:120][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x11_y09_Auto2.umap
+[2020.04.08-10.33.08:164][ 57]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-10.33.08:195][ 57]LogSavePackage: Save=57.84ms
+[2020.04.08-10.33.08:196][ 57]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x11_y10_Auto2625A9D424C9A63AB4F6FD780782D1B7A.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x11_y10_Auto2.umap'
+[2020.04.08-10.33.08:197][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x11_y10_Auto2.umap
+[2020.04.08-10.33.08:240][ 57]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-10.33.08:410][ 57]LogSavePackage: Save=192.91ms
+[2020.04.08-10.33.08:410][ 57]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x12_y08_Auto28918C51E4C08322363C8A88CEB1171C2.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x12_y08_Auto2.umap'
+[2020.04.08-10.33.08:411][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x12_y08_Auto2.umap
+[2020.04.08-10.33.08:476][ 57]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-10.33.08:562][ 57]LogSavePackage: Save=130.06ms
+[2020.04.08-10.33.08:562][ 57]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x12_y09_Auto2932FEB01470F62291D86E6BFE1066428.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x12_y09_Auto2.umap'
+[2020.04.08-10.33.08:564][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x12_y09_Auto2.umap
+[2020.04.08-10.33.08:602][ 57]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-10.33.08:643][ 57]LogSavePackage: Save=60.17ms
+[2020.04.08-10.33.08:643][ 57]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x12_y10_Auto210EA4FA3413FAF05B931988B65B627F9.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x12_y10_Auto2.umap'
+[2020.04.08-10.33.08:644][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x12_y10_Auto2.umap
+[2020.04.08-10.33.08:684][ 57]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-10.33.08:796][ 57]LogSavePackage: Save=130.58ms
+[2020.04.08-10.33.08:796][ 57]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x13_y09_Auto207F469EA41AF2EA1A25FBF80FAEDF3A8.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x13_y09_Auto2.umap'
+[2020.04.08-10.33.08:798][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x13_y09_Auto2.umap
+[2020.04.08-10.33.08:834][ 57]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-10.33.08:871][ 57]LogSavePackage: Save=54.35ms
+[2020.04.08-10.33.08:871][ 57]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x13_y10_Auto26DF23FDF4461F652E5BFEAA3A9940217.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x13_y10_Auto2.umap'
+[2020.04.08-10.33.08:873][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/Autosaves/Game/Levels/FinalLand/FinalLand_x13_y10_Auto2.umap
+[2020.04.08-10.33.08:873][ 57]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLand' took 1.075
+[2020.04.08-10.33.08:873][ 57]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.075
+[2020.04.08-10.41.22:179][286]LogEditorViewport: Clicking on Actor (context menu): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-11.05.34:085][726]LogSavePackage: Save=359.89ms
+[2020.04.08-11.05.34:085][726]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/MainLandDD9D33584DC8BC2216E38F98A055D44A.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/MainLand.umap'
+[2020.04.08-11.05.34:095][726]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/MainLand.umap
+[2020.04.08-11.05.38:091][ 29]LogSavePackage: Save=19.00ms
+[2020.04.08-11.05.38:091][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x10_y0626BB259A48AE65B11D1A07A51EE521EB.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x10_y06.umap'
+[2020.04.08-11.05.38:093][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x10_y06.umap
+[2020.04.08-11.05.38:094][ 29]LogFileHelpers: Saving map 'FinalLand_x10_y06' took 0.318
+[2020.04.08-11.05.38:410][ 29]LogSavePackage: Save=21.56ms
+[2020.04.08-11.05.38:410][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x10_y0709D0DFA14BAC76DE0510C98DAD271429.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x10_y07.umap'
+[2020.04.08-11.05.38:413][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x10_y07.umap
+[2020.04.08-11.05.38:414][ 29]LogFileHelpers: Saving map 'FinalLand_x10_y07' took 0.317
+[2020.04.08-11.05.38:723][ 29]LogSavePackage: Save=18.78ms
+[2020.04.08-11.05.38:723][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x10_y08FBC957394CF1E93FC1A6EAB2F40334EA.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x10_y08.umap'
+[2020.04.08-11.05.38:726][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x10_y08.umap
+[2020.04.08-11.05.38:727][ 29]LogFileHelpers: Saving map 'FinalLand_x10_y08' took 0.311
+[2020.04.08-11.05.39:039][ 29]LogSavePackage: Save=23.10ms
+[2020.04.08-11.05.39:039][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x10_y0922795A714689F511AA285484DC544E37.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x10_y09.umap'
+[2020.04.08-11.05.39:041][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x10_y09.umap
+[2020.04.08-11.05.39:042][ 29]LogFileHelpers: Saving map 'FinalLand_x10_y09' took 0.313
+[2020.04.08-11.05.39:368][ 29]LogSavePackage: Save=25.81ms
+[2020.04.08-11.05.39:368][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x10_y1063DFAFF54406299444319A9B0D37A4F2.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x10_y10.umap'
+[2020.04.08-11.05.39:370][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x10_y10.umap
+[2020.04.08-11.05.39:371][ 29]LogFileHelpers: Saving map 'FinalLand_x10_y10' took 0.326
+[2020.04.08-11.05.39:681][ 29]LogSavePackage: Save=17.06ms
+[2020.04.08-11.05.39:681][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x11_y063E0A07E346374E6A53142CA1C541784E.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y06.umap'
+[2020.04.08-11.05.39:683][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y06.umap
+[2020.04.08-11.05.39:684][ 29]LogFileHelpers: Saving map 'FinalLand_x11_y06' took 0.310
+[2020.04.08-11.05.45:481][ 29]LogSavePackage: Save=20.92ms
+[2020.04.08-11.05.45:481][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x11_y071E674E1349D10D0CA6F2ABB23301A18F.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y07.umap'
+[2020.04.08-11.05.45:484][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y07.umap
+[2020.04.08-11.05.45:485][ 29]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.08-11.05.45:486][ 29]LogFileHelpers: Saving map 'FinalLand_x11_y07' took 5.798
+[2020.04.08-11.05.45:824][ 29]LogSavePackage: Save=20.29ms
+[2020.04.08-11.05.45:824][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x11_y081F50665C496C690E82921AA6D08680EE.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y08.umap'
+[2020.04.08-11.05.45:826][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y08.umap
+[2020.04.08-11.05.45:827][ 29]LogFileHelpers: Saving map 'FinalLand_x11_y08' took 0.311
+[2020.04.08-11.05.46:121][ 29]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.05.46:160][ 29]LogSavePackage: Save=39.68ms
+[2020.04.08-11.05.46:160][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x11_y092348EA2B4D64DD0C549026B82106E82A.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y09.umap'
+[2020.04.08-11.05.46:162][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y09.umap
+[2020.04.08-11.05.46:163][ 29]LogFileHelpers: Saving map 'FinalLand_x11_y09' took 0.331
+[2020.04.08-11.05.46:475][ 29]LogSavePackage: Save=21.12ms
+[2020.04.08-11.05.46:475][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x11_y10ACD294AA498D71D091E3088ED2D1F5E3.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y10.umap'
+[2020.04.08-11.05.46:478][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y10.umap
+[2020.04.08-11.05.46:479][ 29]LogFileHelpers: Saving map 'FinalLand_x11_y10' took 0.310
+[2020.04.08-11.05.46:802][ 29]LogSavePackage: Save=22.61ms
+[2020.04.08-11.05.46:802][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x12_y06457359CD4B7C30C39CEF38970961C2F1.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y06.umap'
+[2020.04.08-11.05.46:805][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y06.umap
+[2020.04.08-11.05.46:806][ 29]LogFileHelpers: Saving map 'FinalLand_x12_y06' took 0.322
+[2020.04.08-11.05.47:282][ 29]LogSavePackage: Save=177.32ms
+[2020.04.08-11.05.47:282][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x12_y0894481CD844C32D31C3F26BB720EEB9FE.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y08.umap'
+[2020.04.08-11.05.47:285][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y08.umap
+[2020.04.08-11.05.47:286][ 29]LogFileHelpers: Saving map 'FinalLand_x12_y08' took 0.476
+[2020.04.08-11.05.47:587][ 29]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.05.47:678][ 29]LogSavePackage: Save=91.95ms
+[2020.04.08-11.05.47:678][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x12_y09725FA7CD4140D904E5F601B5428C44E5.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y09.umap'
+[2020.04.08-11.05.47:681][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y09.umap
+[2020.04.08-11.05.47:681][ 29]LogFileHelpers: Saving map 'FinalLand_x12_y09' took 0.391
+[2020.04.08-11.05.48:164][ 29]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.05.48:212][ 29]LogSavePackage: Save=50.82ms
+[2020.04.08-11.05.48:212][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x12_y1035F56DE94D4082F9DF1AB68927EF1D68.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y10.umap'
+[2020.04.08-11.05.48:215][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y10.umap
+[2020.04.08-11.05.48:216][ 29]LogFileHelpers: Saving map 'FinalLand_x12_y10' took 0.530
+[2020.04.08-11.05.48:512][ 29]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.05.48:538][ 29]LogSavePackage: Save=28.05ms
+[2020.04.08-11.05.48:538][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x13_y0783C79BD84B8BA3F57F9EAF816705FBBA.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y07.umap'
+[2020.04.08-11.05.48:541][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y07.umap
+[2020.04.08-11.05.48:542][ 29]LogFileHelpers: Saving map 'FinalLand_x13_y07' took 0.321
+[2020.04.08-11.05.48:849][ 29]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.05.48:884][ 29]LogSavePackage: Save=44.37ms
+[2020.04.08-11.05.48:884][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x13_y0835FE53DB43D771DE3942A39B45E17423.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y08.umap'
+[2020.04.08-11.05.48:887][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y08.umap
+[2020.04.08-11.05.48:888][ 29]LogFileHelpers: Saving map 'FinalLand_x13_y08' took 0.342
+[2020.04.08-11.05.49:196][ 29]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.05.49:318][ 29]LogSavePackage: Save=122.67ms
+[2020.04.08-11.05.49:318][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x13_y097BE124654C23AE40D2C8D18F61B6C47D.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y09.umap'
+[2020.04.08-11.05.49:321][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y09.umap
+[2020.04.08-11.05.49:322][ 29]LogFileHelpers: Saving map 'FinalLand_x13_y09' took 0.430
+[2020.04.08-11.05.49:655][ 29]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.05.49:692][ 29]LogSavePackage: Save=68.16ms
+[2020.04.08-11.05.49:692][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x13_y101FD6839145FB661D7BA8529ACA15FA2A.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y10.umap'
+[2020.04.08-11.05.49:695][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y10.umap
+[2020.04.08-11.05.49:695][ 29]LogFileHelpers: Saving map 'FinalLand_x13_y10' took 0.369
+[2020.04.08-11.05.50:001][ 29]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.05.50:033][ 29]LogSavePackage: Save=33.24ms
+[2020.04.08-11.05.50:033][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x14_y07A6AC8E524091CD112A4662A25604C309.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y07.umap'
+[2020.04.08-11.05.50:044][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y07.umap
+[2020.04.08-11.05.50:045][ 29]LogFileHelpers: Saving map 'FinalLand_x14_y07' took 0.345
+[2020.04.08-11.05.50:343][ 29]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.05.50:369][ 29]LogSavePackage: Save=26.24ms
+[2020.04.08-11.05.50:369][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x14_y08E9D0843D4A4573B85558D89601256B2C.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y08.umap'
+[2020.04.08-11.05.50:371][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y08.umap
+[2020.04.08-11.05.50:372][ 29]LogFileHelpers: Saving map 'FinalLand_x14_y08' took 0.322
+[2020.04.08-11.05.50:687][ 29]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.05.50:732][ 29]LogSavePackage: Save=61.44ms
+[2020.04.08-11.05.50:732][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x14_y09F898ED9A497CDC9F0773B996DA12B887.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y09.umap'
+[2020.04.08-11.05.50:735][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y09.umap
+[2020.04.08-11.05.50:736][ 29]LogFileHelpers: Saving map 'FinalLand_x14_y09' took 0.359
+[2020.04.08-11.05.51:040][ 29]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.05.51:066][ 29]LogSavePackage: Save=27.05ms
+[2020.04.08-11.05.51:066][ 29]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x14_y106C5343164DFE078BC63FF49B83F9D8E8.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y10.umap'
+[2020.04.08-11.05.51:068][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y10.umap
+[2020.04.08-11.05.51:069][ 29]LogFileHelpers: Saving map 'FinalLand_x14_y10' took 0.329
+[2020.04.08-11.19.01:122][342]LogEditorViewport: Clicking on Actor (double click): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-11.25.04:962][239]Cmd: TRANSACTION UNDO
+[2020.04.08-11.25.04:962][239]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.04.08-11.25.05:072][239]LogLandscape: Warning: Duplicate ComponentBase -8, 7
+[2020.04.08-11.25.05:090][239]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.25.05:781][267]Cmd: TRANSACTION UNDO
+[2020.04.08-11.25.05:781][267]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2020.04.08-11.25.16:313][858]LogSavePackage: Save=346.77ms
+[2020.04.08-11.25.16:313][858]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/MainLandCC6B8D8F496D0E1A8E71CC9E679D315B.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/MainLand.umap'
+[2020.04.08-11.25.16:315][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/MainLand.umap
+[2020.04.08-11.25.16:338][858]LogFileHelpers: Saving map 'MainLand' took 0.680
+[2020.04.08-11.25.16:640][858]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.25.16:665][858]LogSavePackage: Save=35.52ms
+[2020.04.08-11.25.16:665][858]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x10_y09DE15229A4E5A169AFF20F8A67ADB099D.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x10_y09.umap'
+[2020.04.08-11.25.16:668][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x10_y09.umap
+[2020.04.08-11.25.16:668][858]LogFileHelpers: Saving map 'FinalLand_x10_y09' took 0.328
+[2020.04.08-11.25.16:967][858]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.25.16:999][858]LogSavePackage: Save=42.72ms
+[2020.04.08-11.25.16:999][858]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x10_y10FFDF9E014E1EE33407F78F99846497D2.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x10_y10.umap'
+[2020.04.08-11.25.17:001][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x10_y10.umap
+[2020.04.08-11.25.17:002][858]LogFileHelpers: Saving map 'FinalLand_x10_y10' took 0.331
+[2020.04.08-11.25.17:328][858]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.25.17:346][858]LogSavePackage: Save=47.98ms
+[2020.04.08-11.25.17:346][858]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x11_y098955E8C74B3B38E61A123BB4DC83569A.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y09.umap'
+[2020.04.08-11.25.17:349][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y09.umap
+[2020.04.08-11.25.17:349][858]LogFileHelpers: Saving map 'FinalLand_x11_y09' took 0.345
+[2020.04.08-11.25.17:651][858]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.25.17:685][858]LogSavePackage: Save=35.74ms
+[2020.04.08-11.25.17:685][858]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x11_y101B5741E24A7AE6B1EA6DF6A8DCD6A419.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y10.umap'
+[2020.04.08-11.25.17:688][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y10.umap
+[2020.04.08-11.25.17:688][858]LogFileHelpers: Saving map 'FinalLand_x11_y10' took 0.336
+[2020.04.08-11.25.17:993][858]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.25.18:016][858]LogSavePackage: Save=25.00ms
+[2020.04.08-11.25.18:016][858]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x12_y069D6B1B3B4D848976DC763383274270A8.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y06.umap'
+[2020.04.08-11.25.18:018][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y06.umap
+[2020.04.08-11.25.18:019][858]LogFileHelpers: Saving map 'FinalLand_x12_y06' took 0.327
+[2020.04.08-11.25.18:319][858]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.25.18:343][858]LogSavePackage: Save=24.94ms
+[2020.04.08-11.25.18:343][858]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x12_y07322C03804C897727C86B79B4A45A7F38.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y07.umap'
+[2020.04.08-11.25.18:345][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y07.umap
+[2020.04.08-11.25.18:346][858]LogFileHelpers: Saving map 'FinalLand_x12_y07' took 0.325
+[2020.04.08-11.25.18:664][858]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.25.18:739][858]LogSavePackage: Save=85.51ms
+[2020.04.08-11.25.18:739][858]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x12_y09A13402E043E73CBAFBA6BEBE553C71CE.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y09.umap'
+[2020.04.08-11.25.18:742][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y09.umap
+[2020.04.08-11.25.18:743][858]LogFileHelpers: Saving map 'FinalLand_x12_y09' took 0.393
+[2020.04.08-11.25.19:035][858]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.25.19:061][858]LogSavePackage: Save=27.43ms
+[2020.04.08-11.25.19:061][858]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x12_y10B662090E4D56CDBA59D03A8F754A5E06.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y10.umap'
+[2020.04.08-11.25.19:064][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y10.umap
+[2020.04.08-11.25.19:065][858]LogFileHelpers: Saving map 'FinalLand_x12_y10' took 0.319
+[2020.04.08-11.25.19:407][858]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.25.19:479][858]LogSavePackage: Save=114.76ms
+[2020.04.08-11.25.19:479][858]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x13_y06209DB60F42DACDFCAEAB579879D677E1.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y06.umap'
+[2020.04.08-11.25.19:482][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y06.umap
+[2020.04.08-11.25.19:482][858]LogFileHelpers: Saving map 'FinalLand_x13_y06' took 0.415
+[2020.04.08-11.25.19:789][858]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.25.19:813][858]LogSavePackage: Save=26.67ms
+[2020.04.08-11.25.19:813][858]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x13_y074016D67A467EC4F2B0396EAFF3302448.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y07.umap'
+[2020.04.08-11.25.19:816][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y07.umap
+[2020.04.08-11.25.19:817][858]LogFileHelpers: Saving map 'FinalLand_x13_y07' took 0.331
+[2020.04.08-11.25.20:116][858]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.25.20:145][858]LogSavePackage: Save=31.44ms
+[2020.04.08-11.25.20:145][858]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x13_y08780430E4449C6C4EBA28A2ADF43B7EA7.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y08.umap'
+[2020.04.08-11.25.20:147][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y08.umap
+[2020.04.08-11.25.20:148][858]LogFileHelpers: Saving map 'FinalLand_x13_y08' took 0.328
+[2020.04.08-11.25.20:461][858]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.25.20:562][858]LogSavePackage: Save=116.74ms
+[2020.04.08-11.25.20:562][858]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x13_y09334032D64F2F3D98F9641AAE58D2C06B.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y09.umap'
+[2020.04.08-11.25.20:565][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y09.umap
+[2020.04.08-11.25.20:566][858]LogFileHelpers: Saving map 'FinalLand_x13_y09' took 0.415
+[2020.04.08-11.25.20:871][858]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.25.20:899][858]LogSavePackage: Save=30.75ms
+[2020.04.08-11.25.20:900][858]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x13_y104200456540720FE062382C9EAEDB9A16.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y10.umap'
+[2020.04.08-11.25.20:902][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y10.umap
+[2020.04.08-11.25.20:903][858]LogFileHelpers: Saving map 'FinalLand_x13_y10' took 0.334
+[2020.04.08-11.25.21:205][858]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.25.21:234][858]LogSavePackage: Save=29.89ms
+[2020.04.08-11.25.21:234][858]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x14_y0608ABB8CC4C14F4FFEC93F9AE3B72FAE6.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y06.umap'
+[2020.04.08-11.25.21:237][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y06.umap
+[2020.04.08-11.25.21:238][858]LogFileHelpers: Saving map 'FinalLand_x14_y06' took 0.332
+[2020.04.08-11.25.21:541][858]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.25.21:572][858]LogSavePackage: Save=33.20ms
+[2020.04.08-11.25.21:572][858]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x14_y078E55A57B4CDEAF39B2C0F69EE41CED9D.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y07.umap'
+[2020.04.08-11.25.21:574][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y07.umap
+[2020.04.08-11.25.21:575][858]LogFileHelpers: Saving map 'FinalLand_x14_y07' took 0.334
+[2020.04.08-11.25.21:886][858]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.25.21:934][858]LogSavePackage: Save=51.02ms
+[2020.04.08-11.25.21:934][858]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x14_y0865E2E38A438E172E502DA1871836CB3A.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y08.umap'
+[2020.04.08-11.25.21:937][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y08.umap
+[2020.04.08-11.25.21:937][858]LogFileHelpers: Saving map 'FinalLand_x14_y08' took 0.359
+[2020.04.08-11.29.44:027][125]Cmd: TRANSACTION UNDO
+[2020.04.08-11.29.44:027][125]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.04.08-11.29.44:077][125]LogLandscape: Warning: Duplicate ComponentBase -8, 7
+[2020.04.08-11.29.44:093][125]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.34.04:060][626]LogSavePackage: Save=345.88ms
+[2020.04.08-11.34.04:060][626]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/MainLandDCF674104810F46CC2277582887DBC1E.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/MainLand.umap'
+[2020.04.08-11.34.04:063][626]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/MainLand.umap
+[2020.04.08-11.51.08:452][767]LogEditorViewport: Clicking on Actor (context menu): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-11.55.15:434][252]Cmd: TRANSACTION UNDO
+[2020.04.08-11.55.15:434][252]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.04.08-11.55.15:502][252]LogLandscape: Warning: Duplicate ComponentBase -8, 7
+[2020.04.08-11.55.15:519][252]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-11.58.27:159][935]Cmd: TRANSACTION UNDO
+[2020.04.08-11.58.27:159][935]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.04.08-11.58.27:223][935]LogLandscape: Warning: Duplicate ComponentBase -8, 7
+[2020.04.08-11.58.27:239][935]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.10.52:511][189]LogSavePackage: Save=339.00ms
+[2020.04.08-12.10.52:511][189]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/MainLand13DA32C54F2C85869ACE95BD15AB0C28.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/MainLand.umap'
+[2020.04.08-12.10.52:514][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/MainLand.umap
+[2020.04.08-12.10.52:536][189]LogFileHelpers: Saving map 'MainLand' took 0.673
+[2020.04.08-12.10.52:844][189]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.10.52:871][189]LogSavePackage: Save=28.41ms
+[2020.04.08-12.10.52:871][189]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x11_y053CE31A564C043D2EA8A08F9949FE9082.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y05.umap'
+[2020.04.08-12.10.52:873][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y05.umap
+[2020.04.08-12.10.52:874][189]LogFileHelpers: Saving map 'FinalLand_x11_y05' took 0.336
+[2020.04.08-12.10.53:205][189]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.10.53:225][189]LogSavePackage: Save=24.66ms
+[2020.04.08-12.10.53:226][189]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x11_y0678D688C64ED7AE7A7221D89DD0DBF309.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y06.umap'
+[2020.04.08-12.10.53:228][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y06.umap
+[2020.04.08-12.10.53:229][189]LogFileHelpers: Saving map 'FinalLand_x11_y06' took 0.351
+[2020.04.08-12.10.53:558][189]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.10.53:584][189]LogSavePackage: Save=28.07ms
+[2020.04.08-12.10.53:584][189]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x11_y074AB350B844D661EC58302B87B7FF81F9.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y07.umap'
+[2020.04.08-12.10.53:586][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y07.umap
+[2020.04.08-12.10.53:587][189]LogFileHelpers: Saving map 'FinalLand_x11_y07' took 0.356
+[2020.04.08-12.10.53:884][189]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.10.53:911][189]LogSavePackage: Save=27.66ms
+[2020.04.08-12.10.53:911][189]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x12_y05800C85C94B55D590E3B2C498AFC17DD3.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y05.umap'
+[2020.04.08-12.10.53:913][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y05.umap
+[2020.04.08-12.10.53:914][189]LogFileHelpers: Saving map 'FinalLand_x12_y05' took 0.324
+[2020.04.08-12.10.54:215][189]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.10.54:235][189]LogSavePackage: Save=22.85ms
+[2020.04.08-12.10.54:235][189]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x12_y065A4A319D4C4B6B2ED994CCBD57444D3F.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y06.umap'
+[2020.04.08-12.10.54:238][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y06.umap
+[2020.04.08-12.10.54:239][189]LogFileHelpers: Saving map 'FinalLand_x12_y06' took 0.322
+[2020.04.08-12.10.54:537][189]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.10.54:554][189]LogSavePackage: Save=19.53ms
+[2020.04.08-12.10.54:554][189]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x12_y0732671D3244B0DCFBE05C26A017D008D0.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y07.umap'
+[2020.04.08-12.10.54:556][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y07.umap
+[2020.04.08-12.10.54:557][189]LogFileHelpers: Saving map 'FinalLand_x12_y07' took 0.316
+[2020.04.08-12.10.54:858][189]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.10.54:883][189]LogSavePackage: Save=26.15ms
+[2020.04.08-12.10.54:883][189]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x13_y059ADD57974B2A3A6DDE6453B2F4D9F0B8.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y05.umap'
+[2020.04.08-12.10.54:885][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y05.umap
+[2020.04.08-12.10.54:886][189]LogFileHelpers: Saving map 'FinalLand_x13_y05' took 0.326
+[2020.04.08-12.10.55:175][189]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.10.55:198][189]LogSavePackage: Save=24.50ms
+[2020.04.08-12.10.55:198][189]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x13_y068D3ECE86404D4737D90395A4E335B7A3.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y06.umap'
+[2020.04.08-12.10.55:200][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y06.umap
+[2020.04.08-12.10.55:201][189]LogFileHelpers: Saving map 'FinalLand_x13_y06' took 0.312
+[2020.04.08-12.10.55:505][189]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.10.55:527][189]LogSavePackage: Save=24.02ms
+[2020.04.08-12.10.55:527][189]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x13_y0752768DF3410C8F0F008B9B8BBB798487.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y07.umap'
+[2020.04.08-12.10.55:530][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y07.umap
+[2020.04.08-12.10.55:531][189]LogFileHelpers: Saving map 'FinalLand_x13_y07' took 0.326
+[2020.04.08-12.10.55:834][189]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.10.55:863][189]LogSavePackage: Save=32.00ms
+[2020.04.08-12.10.55:863][189]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x13_y083C62C7C2425F410075CF62AB1A1E0F75.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y08.umap'
+[2020.04.08-12.10.55:865][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y08.umap
+[2020.04.08-12.10.55:866][189]LogFileHelpers: Saving map 'FinalLand_x13_y08' took 0.333
+[2020.04.08-12.10.56:184][189]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.10.56:210][189]LogSavePackage: Save=28.39ms
+[2020.04.08-12.10.56:210][189]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x14_y073C913CC740CD1AC491606F9AD4153AFD.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y07.umap'
+[2020.04.08-12.10.56:213][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y07.umap
+[2020.04.08-12.10.56:213][189]LogFileHelpers: Saving map 'FinalLand_x14_y07' took 0.344
+[2020.04.08-12.10.56:511][189]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.10.56:534][189]LogSavePackage: Save=24.87ms
+[2020.04.08-12.10.56:534][189]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x14_y08676A292E4865A669E54A76B80CF031BC.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y08.umap'
+[2020.04.08-12.10.56:536][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y08.umap
+[2020.04.08-12.10.56:537][189]LogFileHelpers: Saving map 'FinalLand_x14_y08' took 0.321
+[2020.04.08-12.11.26:344][502]LogEditorViewport: Clicking on Actor (context menu): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.13.40:202][974]LogEditorViewport: Clicking on Actor (context menu): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.16.01:395][422]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.16.03:918][557]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.16.57:809][200]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.18.18:902][768]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.18.19:554][801]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.19.47:862][479]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.19.50:941][637]Cmd: DELETE
+[2020.04.08-12.19.50:941][637]Cmd: ACTOR DELETE
+[2020.04.08-12.20.21:645][284]Cmd: TRANSACTION UNDO
+[2020.04.08-12.20.21:646][284]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2020.04.08-12.20.21:961][289]Cmd: TRANSACTION UNDO
+[2020.04.08-12.20.21:961][289]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2020.04.08-12.20.22:204][293]Cmd: TRANSACTION UNDO
+[2020.04.08-12.20.22:204][293]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2020.04.08-12.20.22:432][301]Cmd: TRANSACTION UNDO
+[2020.04.08-12.20.22:432][301]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2020.04.08-12.20.22:681][310]Cmd: TRANSACTION UNDO
+[2020.04.08-12.20.22:681][310]LogEditorTransaction: Undo Delete Landscape Splines
+[2020.04.08-12.20.22:942][320]Cmd: TRANSACTION UNDO
+[2020.04.08-12.20.22:942][320]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2020.04.08-12.20.23:234][331]Cmd: TRANSACTION UNDO
+[2020.04.08-12.20.23:234][331]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.08-12.20.23:500][342]Cmd: TRANSACTION UNDO
+[2020.04.08-12.20.23:501][342]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2020.04.08-12.20.23:763][351]Cmd: TRANSACTION UNDO
+[2020.04.08-12.20.23:763][351]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2020.04.08-12.20.25:281][419]Cmd: TRANSACTION UNDO
+[2020.04.08-12.20.25:281][419]LogEditorTransaction: Undo Move Actors
+[2020.04.08-12.20.25:597][431]Cmd: TRANSACTION UNDO
+[2020.04.08-12.20.25:597][431]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2020.04.08-12.20.26:072][448]Cmd: TRANSACTION UNDO
+[2020.04.08-12.20.26:072][448]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2020.04.08-12.20.26:341][457]Cmd: TRANSACTION UNDO
+[2020.04.08-12.20.26:341][457]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2020.04.08-12.20.26:827][475]Cmd: TRANSACTION UNDO
+[2020.04.08-12.20.26:827][475]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2020.04.08-12.20.27:339][494]Cmd: TRANSACTION UNDO
+[2020.04.08-12.20.27:340][494]LogEditorTransaction: Undo Move Actors
+[2020.04.08-12.20.28:419][540]Cmd: TRANSACTION UNDO
+[2020.04.08-12.20.28:419][540]LogEditorTransaction: Undo Move Actors
+[2020.04.08-12.20.28:930][563]Cmd: TRANSACTION UNDO
+[2020.04.08-12.20.28:930][563]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2020.04.08-12.20.29:388][581]Cmd: TRANSACTION UNDO
+[2020.04.08-12.20.29:388][581]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2020.04.08-12.20.29:798][598]Cmd: TRANSACTION UNDO
+[2020.04.08-12.20.29:798][598]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2020.04.08-12.20.32:026][702]Cmd: TRANSACTION UNDO
+[2020.04.08-12.20.32:026][702]LogEditorTransaction: Undo Move Actors
+[2020.04.08-12.20.32:852][739]Cmd: TRANSACTION UNDO
+[2020.04.08-12.20.32:852][739]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2020.04.08-12.20.43:860][271]LogEditorViewport: Clicking on Actor (LMB): LandscapeGizmoActiveActor (LandscapeGizmoActiveActor)
+[2020.04.08-12.21.01:185][102]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.21.19:814][977]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.22.09:124][970]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.22.10:496][ 37]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.23.13:853][838]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.23.52:694][623]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.23.55:221][743]LogEditorViewport: Clicking Background
+[2020.04.08-12.24.03:790][151]LogEditorViewport: Clicking Background
+[2020.04.08-12.24.09:960][445]LogEditorViewport: Clicking Background
+[2020.04.08-12.25.03:543][203]LogEditorViewport: Clicking Background
+[2020.04.08-12.25.05:525][300]LogEditorViewport: Clicking Background
+[2020.04.08-12.25.32:099][492]LogEditorViewport: Clicking Background
+[2020.04.08-12.25.41:572][949]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.25.43:710][ 53]LogEditorViewport: Clicking Background
+[2020.04.08-12.25.44:976][113]LogEditorViewport: Clicking on Actor (context menu): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.29.47:315][223]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.31.08:567][868]LogEditorViewport: Clicking Background
+[2020.04.08-12.31.10:729][962]LogEditorViewport: Clicking Background
+[2020.04.08-12.31.36:508][ 78]LogEditorViewport: Clicking Background
+[2020.04.08-12.31.54:488][748]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.32.28:144][164]LogEditorViewport: Clicking Background
+[2020.04.08-12.33.01:540][593]LogEditorViewport: Clicking Background
+[2020.04.08-12.33.04:547][723]LogEditorViewport: Clicking Background
+[2020.04.08-12.33.07:163][838]LogEditorViewport: Clicking Background
+[2020.04.08-12.33.30:799][851]LogEditorViewport: Clicking Background
+[2020.04.08-12.33.32:847][942]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.33.56:389][784]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.33.58:096][857]LogEditorViewport: Clicking Background
+[2020.04.08-12.34.04:851][153]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.35.50:387][303]LogEditorViewport: Clicking Background
+[2020.04.08-12.36.40:212][277]Cmd: TRANSACTION UNDO
+[2020.04.08-12.36.40:213][277]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2020.04.08-12.41.25:314][125]LogEditorViewport: Clicking Background
+[2020.04.08-12.41.34:884][529]LogEditorViewport: Clicking Background
+[2020.04.08-12.41.40:506][766]LogEditorViewport: Clicking Background
+[2020.04.08-12.41.42:199][840]LogEditorViewport: Clicking Background
+[2020.04.08-12.41.48:118][ 75]LogEditorViewport: Clicking Background
+[2020.04.08-12.42.28:844][750]LogEditorViewport: Clicking Background
+[2020.04.08-12.43.17:976][764]LogEditorViewport: Clicking Background
+[2020.04.08-12.43.19:689][846]LogEditorViewport: Clicking Background
+[2020.04.08-12.43.37:862][595]LogEditorViewport: Clicking Background
+[2020.04.08-12.46.41:280][747]LogSavePackage: Save=773.51ms
+[2020.04.08-12.46.41:280][747]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/MainLandC6EA780F4CB46E95E7B3EF9B90851DA7.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/MainLand.umap'
+[2020.04.08-12.46.41:283][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/MainLand.umap
+[2020.04.08-12.46.41:313][747]LogFileHelpers: Saving map 'MainLand' took 9.216
+[2020.04.08-12.46.41:659][747]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.46.41:680][747]LogSavePackage: Save=23.95ms
+[2020.04.08-12.46.41:680][747]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x10_y06781C48EB4DA7351DF57FFDBAAF0842C1.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x10_y06.umap'
+[2020.04.08-12.46.41:682][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x10_y06.umap
+[2020.04.08-12.46.41:683][747]LogFileHelpers: Saving map 'FinalLand_x10_y06' took 0.346
+[2020.04.08-12.46.41:975][747]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.46.41:998][747]LogSavePackage: Save=25.52ms
+[2020.04.08-12.46.41:998][747]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x11_y0513AF53174C6161F2DF32FA833905AB61.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y05.umap'
+[2020.04.08-12.46.42:001][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y05.umap
+[2020.04.08-12.46.42:001][747]LogFileHelpers: Saving map 'FinalLand_x11_y05' took 0.315
+[2020.04.08-12.46.42:306][747]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.46.42:331][747]LogSavePackage: Save=26.64ms
+[2020.04.08-12.46.42:331][747]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x11_y064ADF2A3241FC5F965EF079815CD65FAB.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y06.umap'
+[2020.04.08-12.46.42:334][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y06.umap
+[2020.04.08-12.46.42:334][747]LogFileHelpers: Saving map 'FinalLand_x11_y06' took 0.329
+[2020.04.08-12.46.42:637][747]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.46.42:660][747]LogSavePackage: Save=25.76ms
+[2020.04.08-12.46.42:660][747]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x11_y07DBC5C7AA4A4595270AC6789FDC31AACB.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y07.umap'
+[2020.04.08-12.46.42:662][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y07.umap
+[2020.04.08-12.46.42:663][747]LogFileHelpers: Saving map 'FinalLand_x11_y07' took 0.324
+[2020.04.08-12.46.42:974][747]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.46.42:993][747]LogSavePackage: Save=20.28ms
+[2020.04.08-12.46.42:993][747]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x11_y08F62100FE467A199D1ACA5FA51CDA74D5.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y08.umap'
+[2020.04.08-12.46.42:995][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y08.umap
+[2020.04.08-12.46.42:996][747]LogFileHelpers: Saving map 'FinalLand_x11_y08' took 0.330
+[2020.04.08-12.46.43:323][747]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.46.43:345][747]LogSavePackage: Save=26.95ms
+[2020.04.08-12.46.43:345][747]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x11_y097B66760A49454AA56B256A89B5860D8A.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y09.umap'
+[2020.04.08-12.46.43:348][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x11_y09.umap
+[2020.04.08-12.46.43:349][747]LogFileHelpers: Saving map 'FinalLand_x11_y09' took 0.349
+[2020.04.08-12.46.43:673][747]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.46.43:695][747]LogSavePackage: Save=26.23ms
+[2020.04.08-12.46.43:695][747]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x12_y066C2270FB43C81E4944D8C7AF1D8508FD.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y06.umap'
+[2020.04.08-12.46.43:697][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y06.umap
+[2020.04.08-12.46.43:698][747]LogFileHelpers: Saving map 'FinalLand_x12_y06' took 0.346
+[2020.04.08-12.46.43:994][747]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.46.44:023][747]LogSavePackage: Save=30.65ms
+[2020.04.08-12.46.44:023][747]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x12_y07D54663F046E5254DBD143F911C62F558.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y07.umap'
+[2020.04.08-12.46.44:025][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y07.umap
+[2020.04.08-12.46.44:026][747]LogFileHelpers: Saving map 'FinalLand_x12_y07' took 0.324
+[2020.04.08-12.46.44:386][747]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.46.44:536][747]LogSavePackage: Save=173.40ms
+[2020.04.08-12.46.44:536][747]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x12_y08188AD8C342296EB04BD38E9AB71943C5.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y08.umap'
+[2020.04.08-12.46.44:538][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y08.umap
+[2020.04.08-12.46.44:539][747]LogFileHelpers: Saving map 'FinalLand_x12_y08' took 0.510
+[2020.04.08-12.46.44:869][747]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.46.44:942][747]LogSavePackage: Save=83.54ms
+[2020.04.08-12.46.44:942][747]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x12_y09A68FC8A0439C5792DEBB849BF661414C.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y09.umap'
+[2020.04.08-12.46.44:945][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x12_y09.umap
+[2020.04.08-12.46.44:945][747]LogFileHelpers: Saving map 'FinalLand_x12_y09' took 0.403
+[2020.04.08-12.46.45:235][747]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.46.45:267][747]LogSavePackage: Save=34.45ms
+[2020.04.08-12.46.45:267][747]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x13_y06F625AAFE4ED3245563706EAC7C9290FA.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y06.umap'
+[2020.04.08-12.46.45:270][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y06.umap
+[2020.04.08-12.46.45:270][747]LogFileHelpers: Saving map 'FinalLand_x13_y06' took 0.321
+[2020.04.08-12.46.45:577][747]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.46.45:604][747]LogSavePackage: Save=28.99ms
+[2020.04.08-12.46.45:604][747]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x13_y079AFC322A4EC235C95560EC81783FE33F.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y07.umap'
+[2020.04.08-12.46.45:606][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y07.umap
+[2020.04.08-12.46.45:607][747]LogFileHelpers: Saving map 'FinalLand_x13_y07' took 0.332
+[2020.04.08-12.46.45:916][747]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.46.45:941][747]LogSavePackage: Save=28.76ms
+[2020.04.08-12.46.45:941][747]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x13_y0840B5DFD943407B8A63BED1BBDAE53A83.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y08.umap'
+[2020.04.08-12.46.45:944][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y08.umap
+[2020.04.08-12.46.45:945][747]LogFileHelpers: Saving map 'FinalLand_x13_y08' took 0.334
+[2020.04.08-12.46.46:289][747]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.46.46:387][747]LogSavePackage: Save=112.05ms
+[2020.04.08-12.46.46:387][747]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x13_y09130E338A414B92B715822BA610961F1D.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y09.umap'
+[2020.04.08-12.46.46:390][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x13_y09.umap
+[2020.04.08-12.46.46:391][747]LogFileHelpers: Saving map 'FinalLand_x13_y09' took 0.442
+[2020.04.08-12.46.46:721][747]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.46.46:769][747]LogSavePackage: Save=49.34ms
+[2020.04.08-12.46.46:769][747]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x14_y07E7842C00424C28826EB51694D707D5B7.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y07.umap'
+[2020.04.08-12.46.46:771][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y07.umap
+[2020.04.08-12.46.46:772][747]LogFileHelpers: Saving map 'FinalLand_x14_y07' took 0.377
+[2020.04.08-12.46.47:086][747]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.46.47:108][747]LogSavePackage: Save=24.84ms
+[2020.04.08-12.46.47:108][747]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x14_y08935B60694789B123794DEE92231ABA9B.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y08.umap'
+[2020.04.08-12.46.47:110][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y08.umap
+[2020.04.08-12.46.47:111][747]LogFileHelpers: Saving map 'FinalLand_x14_y08' took 0.335
+[2020.04.08-12.46.47:439][747]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.04.08-12.46.47:463][747]LogSavePackage: Save=25.93ms
+[2020.04.08-12.46.47:463][747]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/FinalLand_x14_y09724B91684DCEC313371342B23D7A9DFB.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y09.umap'
+[2020.04.08-12.46.47:466][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/FinalLand/FinalLand_x14_y09.umap
+[2020.04.08-12.46.47:466][747]LogFileHelpers: Saving map 'FinalLand_x14_y09' took 0.351
+[2020.04.08-12.47.13:928][810]LogEditorViewport: Clicking Background
+[2020.04.08-12.47.22:950][203]LogEditorViewport: Clicking Background
+[2020.04.08-12.49.52:643][515]Cmd: TRANSACTION UNDO
+[2020.04.08-12.49.52:643][515]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2020.04.08-12.50.21:187][680]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.51.01:347][307]LogEditorViewport: Clicking Background
+[2020.04.08-12.51.04:410][440]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.51.21:108][997]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.51.23:167][ 88]LogEditorViewport: Clicking Background
+[2020.04.08-12.52.55:100][383]LogEditorViewport: Clicking Background
+[2020.04.08-12.54.33:716][241]LogEditorViewport: Clicking Background
+[2020.04.08-12.54.59:352][191]LogEditorViewport: Clicking Background
+[2020.04.08-12.55.28:390][289]LogEditorViewport: Clicking Background
+[2020.04.08-12.55.29:973][349]LogEditorViewport: Clicking Background
+[2020.04.08-12.56.38:832][980]Cmd: TRANSACTION UNDO
+[2020.04.08-12.56.38:832][980]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2020.04.08-12.56.40:247][ 33]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.57.33:183][207]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-12.57.35:787][315]Cmd: DELETE
+[2020.04.08-12.57.35:787][315]Cmd: ACTOR DELETE
+[2020.04.08-12.57.49:060][844]Cmd: TRANSACTION UNDO
+[2020.04.08-12.57.49:060][844]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2020.04.08-13.00.27:933][699]LogEditorViewport: Clicking Background
+[2020.04.08-13.02.01:698][242]LogEditorViewport: Clicking Background
+[2020.04.08-13.02.06:774][450]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-13.02.24:821][174]Cmd: TRANSACTION UNDO
+[2020.04.08-13.02.24:821][174]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2020.04.08-13.02.31:370][431]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-13.02.34:017][535]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-13.02.35:672][597]LogEditorViewport: Clicking Background
+[2020.04.08-13.02.38:473][691]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-13.02.56:744][324]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-13.03.23:279][377]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-13.03.50:896][401]LogEditorViewport: Clicking Background
+[2020.04.08-13.03.52:753][477]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-13.05.21:187][438]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-13.05.39:544][126]LogEditorViewport: Clicking Background
+[2020.04.08-13.05.42:693][252]LogEditorViewport: Clicking Background
+[2020.04.08-13.05.45:521][366]LogEditorViewport: Clicking Background
+[2020.04.08-13.05.50:495][569]LogEditorViewport: Clicking Background
+[2020.04.08-13.05.51:948][630]LogEditorViewport: Clicking Background
+[2020.04.08-13.06.38:387][327]Cmd: DELETE
+[2020.04.08-13.06.38:387][327]Cmd: ACTOR DELETE
+[2020.04.08-13.06.40:759][382]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-13.06.41:450][409]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-13.06.42:626][455]Cmd: DELETE
+[2020.04.08-13.06.42:626][455]Cmd: ACTOR DELETE
+[2020.04.08-13.07.06:739][384]Cmd: TRANSACTION UNDO
+[2020.04.08-13.07.06:739][384]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2020.04.08-13.07.22:063][ 21]Cmd: DELETE
+[2020.04.08-13.07.22:063][ 21]Cmd: ACTOR DELETE
+[2020.04.08-13.09.16:314][197]LogEditorViewport: Clicking Background
+[2020.04.08-13.09.17:741][255]LogEditorViewport: Clicking Background
+[2020.04.08-13.09.19:786][340]LogEditorViewport: Clicking Background
+[2020.04.08-13.09.21:318][402]LogEditorViewport: Clicking Background
+[2020.04.08-13.09.22:903][467]LogEditorViewport: Clicking Background
+[2020.04.08-13.09.24:445][530]LogEditorViewport: Clicking Background
+[2020.04.08-13.09.28:976][707]LogEditorViewport: Clicking Background
+[2020.04.08-13.09.30:317][760]LogEditorViewport: Clicking Background
+[2020.04.08-13.09.31:923][825]LogEditorViewport: Clicking Background
+[2020.04.08-13.10.03:911][ 64]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.04.08-13.10.22:669][679]Cmd: DELETE
+[2020.04.08-13.10.22:669][679]Cmd: ACTOR DELETE
+[2020.04.08-13.10.33:653][ 95]Cmd: TRANSACTION UNDO
+[2020.04.08-13.10.33:653][ 95]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2020.04.08-13.11.01:301][ 69]LogEditorViewport: Clicking Background
+[2020.04.08-13.11.20:977][887]LogEditorViewport: Clicking Background
+[2020.04.08-13.11.22:470][950]LogEditorViewport: Clicking Background
+[2020.04.08-13.11.23:788][  6]LogEditorViewport: Clicking Background
+[2020.04.08-13.11.38:944][539]LogSavePackage: Save=856.63ms
+[2020.04.08-13.11.38:945][539]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Saved/MainLand77F539D94B96427D26B757B995BB8448.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/MainLand.umap'
+[2020.04.08-13.11.38:947][539]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/FinalLandscape/Content/Levels/MainLand.umap
+[2020.04.08-13.14.31:938][548]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.04.08-13.14.38:843][548]LogWindows: Error: === Critical error: ===
+[2020.04.08-13.14.38:843][548]LogWindows: Error: 
+[2020.04.08-13.14.38:843][548]LogWindows: Error: Assertion failed: (Index >= 0) & (Index < ArrayNum) [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Core\Public\Containers/Array.h] [Line: 610] 
+[2020.04.08-13.14.38:843][548]LogWindows: Error: Array index out of bounds: 1 from an array of size 1
+[2020.04.08-13.14.38:843][548]LogWindows: Error: 
+[2020.04.08-13.14.38:843][548]LogWindows: Error: 
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000FD01A06D KERNELBASE.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000D96B76D4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000CC3B330B UE4Editor-Core.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000CC3447F9 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000B1DA86B5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000B230E52B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000B21B454F UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000B21EFFBD UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000B1DE2A61 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000B1DC888E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000B21A0EC0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000AEBC326A UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000CBEC6D44 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000CBC55EFC UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000CBC28095 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000CBCC28A7 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000CBCAB092 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000CBC9D902 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000D96AE54B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000D96A1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000D96B03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000D969D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x0000000077159BBD USER32.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000771598C2 USER32.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000D96B1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x000000003FE750C8 UE4Editor.exe!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x000000003FE85430 UE4Editor.exe!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x000000003FE854AA UE4Editor.exe!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x000000003FE92379 UE4Editor.exe!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x000000003FE93D57 UE4Editor.exe!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x00000000770359CD kernel32.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x000000007726A561 ntdll.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: [Callstack] 0x000000007726A561 ntdll.dll!UnknownFunction []
+[2020.04.08-13.14.38:843][548]LogWindows: Error: 
+[2020.04.08-13.14.38:853][548]LogExit: Executing StaticShutdownAfterError
+[2020.04.08-13.14.39:038][548]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.04.08-13.14.39:048][548]Log file closed, 04/08/20 17:44:39
