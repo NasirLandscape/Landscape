@@ -1,12 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{92F2A7ED-403E-EC50-0348-1EAC662B8207}",
+	"EngineAssociation": "4.18",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "FMODStudio",
-			"Enabled": true
-		}
-	]
+	"Description": ""
 }
