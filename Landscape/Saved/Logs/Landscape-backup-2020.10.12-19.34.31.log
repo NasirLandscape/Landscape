@@ -1,0 +1,1198 @@
+﻿Log file open, 10/12/20 19:20:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Landscape
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(965360127) SRandInit(965360127).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.232904
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Nasir
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.10.12-15.50.05:575][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.12-15.50.05:575][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.12-15.50.05:593][  0]LogInit: Computer: MAHDIPC
+[2020.10.12-15.50.05:593][  0]LogInit: User: Mahdi
+[2020.10.12-15.50.05:593][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.10.12-15.50.05:593][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.12-15.50.05:593][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.10.12-15.50.05:593][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.12-15.50.05:593][  0]LogMemory: Process Physical Memory: 274.88 MB used, 274.88 MB peak
+[2020.10.12-15.50.05:593][  0]LogMemory: Process Virtual Memory: 270.37 MB used, 270.37 MB peak
+[2020.10.12-15.50.05:593][  0]LogMemory: Physical Memory: 9960.70 MB used,  6337.83 MB free, 16298.53 MB total
+[2020.10.12-15.50.05:593][  0]LogMemory: Virtual Memory: 4769.13 MB used,  6337.83 MB free, 134217728.00 MB total
+[2020.10.12-15.50.05:754][  0]LogInit: Using OS detected language (en-US).
+[2020.10.12-15.50.05:754][  0]LogInit: Using OS detected locale (en-US).
+[2020.10.12-15.50.05:756][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.10.12-15.50.06:075][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.12-15.50.06:269][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.12-15.50.06:344][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060 SUPER' (Feature Level 11_0)
+[2020.10.12-15.50.06:344][  0]LogD3D11RHI:       8031/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.10.12-15.50.06:345][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.12-15.50.06:345][  0]LogD3D11RHI:       0/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.12-15.50.06:345][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.12-15.50.06:352][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.12-15.50.06:352][  0]LogD3D11RHI:     GPU DeviceId: 0x1f06 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.12-15.50.06:352][  0]LogWindows: EnumDisplayDevices:
+[2020.10.12-15.50.06:352][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060 SUPER' (P:1 D:1)
+[2020.10.12-15.50.06:352][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2020.10.12-15.50.06:352][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2020.10.12-15.50.06:352][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2020.10.12-15.50.06:352][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.10.12-15.50.06:352][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060 SUPER
+[2020.10.12-15.50.06:352][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.10.12-15.50.06:352][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.10.12-15.50.06:352][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.10.12-15.50.06:396][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.12-15.50.06:411][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.12-15.50.06:412][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Intermediate/Shaders/WorkingDirectory/10048/).
+[2020.10.12-15.50.06:412][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mahdi/AppData/Local/Temp/UnrealShaderWorkingDir/A798122B4BD464AA89843498A03817FB/'.
+[2020.10.12-15.50.06:412][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.12-15.50.07:143][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.10.12-15.50.07:196][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.10.12-15.50.07:247][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.10.12-15.50.07:300][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.10.12-15.50.07:353][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.10.12-15.50.07:404][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.10.12-15.50.07:456][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.10.12-15.50.07:509][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.10.12-15.50.07:555][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.10.12-15.50.07:606][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.10.12-15.50.07:656][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.10.12-15.50.07:707][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.10.12-15.50.07:757][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.10.12-15.50.07:809][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.10.12-15.50.07:909][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.10.12-15.50.07:909][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.10.12-15.50.07:961][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.12-15.50.08:005][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.10.12-15.50.08:100][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.10.12-15.50.08:130][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.10.12-15.50.08:182][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.10.12-15.50.08:232][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.10.12-15.50.08:282][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.10.12-15.50.08:332][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.10.12-15.50.08:332][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.12-15.50.08:841][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.12-15.50.08:907][  0]LogDerivedDataCache: Loaded boot cache 0.07s 103MB C:/Users/Mahdi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.10.12-15.50.08:907][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mahdi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.10.12-15.50.08:907][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.12-15.50.08:907][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.12-15.50.08:907][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.12-15.50.08:907][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.12-15.50.08:922][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.12-15.50.08:934][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mahdi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.12-15.50.08:941][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.10.12-15.50.08:942][  0]LogSlate: Using Freetype 2.6.0
+[2020.10.12-15.50.08:942][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.12-15.50.08:942][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.12-15.50.09:231][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.12-15.50.09:540][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.10.12-15.50.09:582][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.10.12-15.50.09:582][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.12-15.50.09:582][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.10.12-15.50.09:582][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.10.12-15.50.09:582][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.10.12-15.50.09:604][  0]LogNetVersion: Landscape , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1265210191)
+[2020.10.12-15.50.09:744][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2020.10.12-15.50.10:147][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 2 prioritized culture(s) in 0.053862 seconds
+[2020.10.12-15.50.10:151][  0]LogUObjectArray: 35871 objects as part of root set at end of initial load.
+[2020.10.12-15.50.10:151][  0]LogUObjectAllocator: 7363928 out of 0 bytes used by permanent object pool.
+[2020.10.12-15.50.10:151][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.12-15.50.10:213][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.10.12-15.50.12:626][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.12-15.50.12:672][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.12-15.50.13:339][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.10.12-15.50.13:734][  0]SourceControl: Source control is disabled
+[2020.10.12-15.50.13:734][  0]SourceControl: Source control is disabled
+[2020.10.12-15.50.13:788][  0]SourceControl: Source control is disabled
+[2020.10.12-15.50.13:841][  0]SourceControl: Source control is disabled
+[2020.10.12-15.50.14:671][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.12-15.50.14:948][  0]LogOcInput: OculusInput pre-init called
+[2020.10.12-15.50.15:247][  0]LogEngine: Initializing Engine...
+[2020.10.12-15.50.15:249][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.12-15.50.15:395][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.10.12-15.50.15:395][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.10.12-15.50.15:528][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.12-15.50.15:543][  0]LogInit: XAudio2 using 'Speakers (EDIFIER G2 II GAMING HEADSET)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.12-15.50.15:560][  0]LogInit: FAudioDevice initialized.
+[2020.10.12-15.50.15:609][  0]LogDerivedDataCache: Saved boot cache 0.05s 103MB C:/Users/Mahdi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.10.12-15.50.15:627][  0]LogInit: Texture streaming: Enabled
+[2020.10.12-15.50.15:742][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.12-15.50.15:878][  0]LogInit: Transaction tracking system initialized
+[2020.10.12-15.50.16:204][  0]BlueprintLog: New page: Editor Load
+[2020.10.12-15.50.17:137][  0]LocalizationService: Localization service is disabled
+[2020.10.12-15.50.17:896][  0]LogConsoleResponse: Display: 
+[2020.10.12-15.50.18:093][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.12-15.50.18:093][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.12-15.50.18:093][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.10.12-15.50.18:757][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/' took 0.01s
+[2020.10.12-15.50.19:312][  0]SourceControl: Source control is disabled
+[2020.10.12-15.50.19:312][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Plugins/Nasir/Content/PitMiningAssets/Maps/Sangaan/MainLand.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.12-15.50.19:319][  0]LightingResults: New page: Lighting Build
+[2020.10.12-15.50.19:363][  0]MapCheck: New page: Map Check
+[2020.10.12-15.50.19:363][  0]LightingResults: New page: Lighting Build
+[2020.10.12-15.50.19:490][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:490][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:490][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:491][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:491][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:491][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:491][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:491][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:491][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:491][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:491][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:492][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:492][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:492][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:492][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:492][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:492][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:492][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:492][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:492][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:492][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:492][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:492][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:492][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:492][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:492][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:492][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:492][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:492][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:492][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:492][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:492][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:492][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:492][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:492][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:492][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:492][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:492][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:492][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:492][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:492][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:492][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:492][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:493][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:493][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:546][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:546][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:546][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:547][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:547][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:547][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:548][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:548][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:548][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:548][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:548][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_10
+[2020.10.12-15.50.19:548][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:548][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_10
+[2020.10.12-15.50.19:548][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:548][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:548][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_10
+[2020.10.12-15.50.19:548][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:548][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_10
+[2020.10.12-15.50.19:548][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:548][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:548][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_10
+[2020.10.12-15.50.19:548][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:549][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_10
+[2020.10.12-15.50.19:549][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:549][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:549][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_11
+[2020.10.12-15.50.19:549][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:549][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_11
+[2020.10.12-15.50.19:549][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:549][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:549][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_11
+[2020.10.12-15.50.19:549][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:549][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_11
+[2020.10.12-15.50.19:549][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:549][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:549][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_11
+[2020.10.12-15.50.19:549][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:549][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_11
+[2020.10.12-15.50.19:549][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:549][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:549][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_12
+[2020.10.12-15.50.19:549][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:549][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_12
+[2020.10.12-15.50.19:549][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:549][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:549][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_12
+[2020.10.12-15.50.19:549][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:549][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_12
+[2020.10.12-15.50.19:549][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:549][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:549][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_12
+[2020.10.12-15.50.19:549][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:550][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_12
+[2020.10.12-15.50.19:550][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:550][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:550][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_13
+[2020.10.12-15.50.19:550][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:550][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_13
+[2020.10.12-15.50.19:550][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:550][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:550][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_13
+[2020.10.12-15.50.19:550][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:550][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_13
+[2020.10.12-15.50.19:550][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:550][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:550][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_13
+[2020.10.12-15.50.19:550][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:550][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_13
+[2020.10.12-15.50.19:550][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:550][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:550][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_19
+[2020.10.12-15.50.19:550][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:550][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_19
+[2020.10.12-15.50.19:550][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:550][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:550][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_19
+[2020.10.12-15.50.19:550][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:550][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_19
+[2020.10.12-15.50.19:550][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:550][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:550][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_19
+[2020.10.12-15.50.19:551][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:551][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_19
+[2020.10.12-15.50.19:551][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:551][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:551][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_20
+[2020.10.12-15.50.19:551][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:551][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_20
+[2020.10.12-15.50.19:551][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:551][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:551][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_20
+[2020.10.12-15.50.19:551][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:551][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_20
+[2020.10.12-15.50.19:551][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:551][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:551][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_20
+[2020.10.12-15.50.19:551][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:551][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_20
+[2020.10.12-15.50.19:551][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:551][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:551][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_9
+[2020.10.12-15.50.19:551][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:551][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_9
+[2020.10.12-15.50.19:551][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:551][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:551][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_9
+[2020.10.12-15.50.19:551][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:551][  0]LoadErrors: Failed to load /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C Referenced by SCS_Node_9
+[2020.10.12-15.50.19:551][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:552][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:552][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_9
+[2020.10.12-15.50.19:552][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:552][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by SCS_Node_9
+[2020.10.12-15.50.19:552][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:553][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:553][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_343
+[2020.10.12-15.50.19:553][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:553][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_343
+[2020.10.12-15.50.19:553][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:553][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:553][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_343
+[2020.10.12-15.50.19:553][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:553][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_343
+[2020.10.12-15.50.19:553][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:554][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:554][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_10
+[2020.10.12-15.50.19:554][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:554][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_10
+[2020.10.12-15.50.19:554][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:554][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:554][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_10
+[2020.10.12-15.50.19:554][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:554][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_10
+[2020.10.12-15.50.19:554][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:554][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:554][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_120
+[2020.10.12-15.50.19:554][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:554][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_120
+[2020.10.12-15.50.19:554][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:554][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:554][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_121
+[2020.10.12-15.50.19:554][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:554][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_121
+[2020.10.12-15.50.19:554][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:555][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:555][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_122
+[2020.10.12-15.50.19:555][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:555][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_122
+[2020.10.12-15.50.19:555][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:555][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:555][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_123
+[2020.10.12-15.50.19:555][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:555][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_123
+[2020.10.12-15.50.19:555][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:555][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:555][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_323
+[2020.10.12-15.50.19:555][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:555][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_323
+[2020.10.12-15.50.19:555][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:555][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:555][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_415
+[2020.10.12-15.50.19:555][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:555][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_415
+[2020.10.12-15.50.19:555][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:555][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:556][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_415
+[2020.10.12-15.50.19:556][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:556][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_415
+[2020.10.12-15.50.19:556][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:556][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:556][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_98
+[2020.10.12-15.50.19:556][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:556][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_98
+[2020.10.12-15.50.19:556][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:556][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:556][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_99
+[2020.10.12-15.50.19:556][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:556][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_99
+[2020.10.12-15.50.19:557][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:557][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:557][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_754
+[2020.10.12-15.50.19:557][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:557][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_754
+[2020.10.12-15.50.19:557][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:557][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:557][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_754
+[2020.10.12-15.50.19:557][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:557][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_754
+[2020.10.12-15.50.19:557][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:557][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:557][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_329
+[2020.10.12-15.50.19:557][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:557][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_329
+[2020.10.12-15.50.19:557][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:557][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:557][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_329
+[2020.10.12-15.50.19:557][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:557][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_329
+[2020.10.12-15.50.19:557][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:557][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:558][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_202
+[2020.10.12-15.50.19:558][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:558][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_202
+[2020.10.12-15.50.19:558][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:558][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:558][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_1089
+[2020.10.12-15.50.19:558][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:558][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_1089
+[2020.10.12-15.50.19:558][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:558][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:558][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_1089
+[2020.10.12-15.50.19:558][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:558][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_1089
+[2020.10.12-15.50.19:558][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:558][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:558][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_1084
+[2020.10.12-15.50.19:558][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:558][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_1084
+[2020.10.12-15.50.19:558][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:558][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:558][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_1084
+[2020.10.12-15.50.19:558][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:558][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_1084
+[2020.10.12-15.50.19:558][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:558][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:559][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_234
+[2020.10.12-15.50.19:559][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:559][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_VariableGet_234
+[2020.10.12-15.50.19:559][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:559][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:559][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_1251
+[2020.10.12-15.50.19:559][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:559][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_1251
+[2020.10.12-15.50.19:559][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:559][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:559][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_1251
+[2020.10.12-15.50.19:559][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:559][  0]LoadErrors: Failed to load /Script/FMODStudio.FMODAudioComponent Referenced by K2Node_CallFunction_1251
+[2020.10.12-15.50.19:559][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:561][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:561][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:561][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:561][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:561][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:562][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:562][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:562][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:562][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:562][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:562][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:562][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:562][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:562][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:562][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:562][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:562][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:562][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:562][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:562][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:562][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:562][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:562][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:562][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:562][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:562][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:562][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:562][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:562][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:562][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:562][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:562][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:562][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:562][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:562][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:562][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:563][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:563][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:563][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:563][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:563][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:563][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:565][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Component class is not set for 'Tire1' - this component will not be instanced, and additional warnings or errors may occur when compiling Blueprint 'VehicleBlueprint'.
+[2020.10.12-15.50.19:565][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Component class is not set for 'Tire2' - this component will not be instanced, and additional warnings or errors may occur when compiling Blueprint 'VehicleBlueprint'.
+[2020.10.12-15.50.19:565][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Component class is not set for 'Tire3' - this component will not be instanced, and additional warnings or errors may occur when compiling Blueprint 'VehicleBlueprint'.
+[2020.10.12-15.50.19:565][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Component class is not set for 'Tire4' - this component will not be instanced, and additional warnings or errors may occur when compiling Blueprint 'VehicleBlueprint'.
+[2020.10.12-15.50.19:565][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Component class is not set for 'revbeep' - this component will not be instanced, and additional warnings or errors may occur when compiling Blueprint 'VehicleBlueprint'.
+[2020.10.12-15.50.19:565][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Component class is not set for 'EngineSound' - this component will not be instanced, and additional warnings or errors may occur when compiling Blueprint 'VehicleBlueprint'.
+[2020.10.12-15.50.19:565][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Component class is not set for 'HydraulicSound' - this component will not be instanced, and additional warnings or errors may occur when compiling Blueprint 'VehicleBlueprint'.
+[2020.10.12-15.50.19:569][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Get : 'Tire2' variable not found. Base class was probably changed. /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.10.12-15.50.19:569][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Get : 'Tire3' variable not found. Base class was probably changed. /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.10.12-15.50.19:569][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Get : 'Tire4' variable not found. Base class was probably changed. /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.10.12-15.50.19:569][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Get : 'Tire1' variable not found. Base class was probably changed. /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.10.12-15.50.19:569][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Get : 'revbeep' variable not found. Base class was probably changed. /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.10.12-15.50.19:570][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Get : 'EngineSound' variable not found. Base class was probably changed. /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.10.12-15.50.19:570][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Get : 'EngineSound' variable not found. Base class was probably changed. /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.10.12-15.50.19:570][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Get : 'HydraulicSound' variable not found. Base class was probably changed. /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.10.12-15.50.19:571][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Get : 'HydraulicSound' variable not found. Base class was probably changed. /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.10.12-15.50.19:578][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  <Unnamed>  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:578][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  Target  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:578][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Input pin  Name  specifying non-default value no longer exists on node  Set Parameter . Please refresh node or reset pin to default value to remove pin.
+[2020.10.12-15.50.19:578][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Input pin  Value  specifying non-default value no longer exists on node  Set Parameter . Please refresh node or reset pin to default value to remove pin.
+[2020.10.12-15.50.19:578][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Could not find a function named "SetParameter" in 'VehicleBlueprint'.
+Make sure 'VehicleBlueprint' has been compiled for  Set Parameter
+[2020.10.12-15.50.19:578][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Could not find a variable named "HydraulicSound" in 'VehicleBlueprint_C'.
+Make sure 'VehicleBlueprint_C' has been compiled for  Get HydraulicSound
+[2020.10.12-15.50.19:578][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  <Unnamed>  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:578][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  <Unnamed>  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:578][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  Target  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:578][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Input pin  Name  specifying non-default value no longer exists on node  Set Parameter . Please refresh node or reset pin to default value to remove pin.
+[2020.10.12-15.50.19:578][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Could not find a function named "SetParameter" in 'VehicleBlueprint'.
+Make sure 'VehicleBlueprint' has been compiled for  Set Parameter
+[2020.10.12-15.50.19:580][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Can't connect pins  Target  and  Hydraulic Sound : Actor Component Object Reference is not compatible with Object Reference.
+[2020.10.12-15.50.19:580][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Can't connect pins  Target  and  Hydraulic Sound : Actor Component Object Reference is not compatible with Object Reference.
+[2020.10.12-15.50.19:580][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  <Unnamed>  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:580][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  Target  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:580][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Input pin  Name  specifying non-default value no longer exists on node  Set Parameter . Please refresh node or reset pin to default value to remove pin.
+[2020.10.12-15.50.19:580][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Input pin  Value  specifying non-default value no longer exists on node  Set Parameter . Please refresh node or reset pin to default value to remove pin.
+[2020.10.12-15.50.19:580][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Could not find a function named "SetParameter" in 'VehicleBlueprint'.
+Make sure 'VehicleBlueprint' has been compiled for  Set Parameter
+[2020.10.12-15.50.19:580][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Can't connect pins  Hydraulic Sound  and  Target : Object Reference is not compatible with Actor Component Object Reference.
+[2020.10.12-15.50.19:580][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Could not find a variable named "HydraulicSound" in 'VehicleBlueprint_C'.
+Make sure 'VehicleBlueprint_C' has been compiled for  Get HydraulicSound
+[2020.10.12-15.50.19:580][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Can't connect pins  Target  and  Engine Sound : Actor Component Object Reference is not compatible with Object Reference.
+[2020.10.12-15.50.19:580][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Can't connect pins  Target  and  Engine Sound : Actor Component Object Reference is not compatible with Object Reference.
+[2020.10.12-15.50.19:581][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  <Unnamed>  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:581][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  <Unnamed>  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:581][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  Target  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:581][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Input pin  Name  specifying non-default value no longer exists on node  Set Parameter . Please refresh node or reset pin to default value to remove pin.
+[2020.10.12-15.50.19:581][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Input pin  Value  specifying non-default value no longer exists on node  Set Parameter . Please refresh node or reset pin to default value to remove pin.
+[2020.10.12-15.50.19:581][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Could not find a function named "SetParameter" in 'VehicleBlueprint'.
+Make sure 'VehicleBlueprint' has been compiled for  Set Parameter
+[2020.10.12-15.50.19:581][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  <Unnamed>  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:581][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  <Unnamed>  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:581][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  Target  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:581][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Input pin  Name  specifying non-default value no longer exists on node  Set Parameter . Please refresh node or reset pin to default value to remove pin.
+[2020.10.12-15.50.19:581][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Could not find a function named "SetParameter" in 'VehicleBlueprint'.
+Make sure 'VehicleBlueprint' has been compiled for  Set Parameter
+[2020.10.12-15.50.19:581][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Can't connect pins  Engine Sound  and  Target : Object Reference is not compatible with Actor Component Object Reference.
+[2020.10.12-15.50.19:581][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Could not find a variable named "EngineSound" in 'VehicleBlueprint_C'.
+Make sure 'VehicleBlueprint_C' has been compiled for  Get EngineSound
+[2020.10.12-15.50.19:581][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Could not find a variable named "EngineSound" in 'VehicleBlueprint_C'.
+Make sure 'VehicleBlueprint_C' has been compiled for  Get EngineSound
+[2020.10.12-15.50.19:582][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  <Unnamed>  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:582][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  <Unnamed>  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:582][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  Target  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:582][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Input pin  Name  specifying non-default value no longer exists on node  Set Parameter . Please refresh node or reset pin to default value to remove pin.
+[2020.10.12-15.50.19:582][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  Value  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:582][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Could not find a function named "SetParameter" in 'VehicleBlueprint'.
+Make sure 'VehicleBlueprint' has been compiled for  Set Parameter
+[2020.10.12-15.50.19:582][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Can't connect pins  Target  and  Revbeep : Actor Component Object Reference is not compatible with Object Reference.
+[2020.10.12-15.50.19:582][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Can't connect pins  Target  and  Revbeep : Actor Component Object Reference is not compatible with Object Reference.
+[2020.10.12-15.50.19:582][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Can't connect pins  Revbeep  and  Target : Object Reference is not compatible with Actor Component Object Reference.
+[2020.10.12-15.50.19:582][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Could not find a variable named "revbeep" in 'VehicleBlueprint_C'.
+Make sure 'VehicleBlueprint_C' has been compiled for  Get revbeep
+[2020.10.12-15.50.19:582][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Could not find a variable named "Tire1" in 'VehicleBlueprint_C'.
+Make sure 'VehicleBlueprint_C' has been compiled for  Get Tire1
+[2020.10.12-15.50.19:582][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Could not find a variable named "Tire4" in 'VehicleBlueprint_C'.
+Make sure 'VehicleBlueprint_C' has been compiled for  Get Tire4
+[2020.10.12-15.50.19:582][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Could not find a variable named "Tire3" in 'VehicleBlueprint_C'.
+Make sure 'VehicleBlueprint_C' has been compiled for  Get Tire3
+[2020.10.12-15.50.19:582][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Could not find a variable named "Tire2" in 'VehicleBlueprint_C'.
+Make sure 'VehicleBlueprint_C' has been compiled for  Get Tire2
+[2020.10.12-15.50.19:583][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  <Unnamed>  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:583][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  <Unnamed>  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:583][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  Target  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:583][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Input pin  Name  specifying non-default value no longer exists on node  Set Parameter . Please refresh node or reset pin to default value to remove pin.
+[2020.10.12-15.50.19:583][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  Value  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:583][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Could not find a function named "SetParameter" in 'VehicleBlueprint'.
+Make sure 'VehicleBlueprint' has been compiled for  Set Parameter
+[2020.10.12-15.50.19:583][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  <Unnamed>  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:583][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  <Unnamed>  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:583][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  Target  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:583][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] Input pin  Name  specifying non-default value no longer exists on node  Set Parameter . Please refresh node or reset pin to default value to remove pin.
+[2020.10.12-15.50.19:583][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] In use pin  Value  no longer exists on node  Set Parameter . Please refresh node or break links to remove pin.
+[2020.10.12-15.50.19:583][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Could not find a function named "SetParameter" in 'VehicleBlueprint'.
+Make sure 'VehicleBlueprint' has been compiled for  Set Parameter
+[2020.10.12-15.50.19:589][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] The property associated with  Hydraulic Sound  could not be found
+[2020.10.12-15.50.19:589][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] The property associated with  Tire 2  could not be found
+[2020.10.12-15.50.19:589][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] The property associated with  Tire 3  could not be found
+[2020.10.12-15.50.19:589][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] The property associated with  Tire 4  could not be found
+[2020.10.12-15.50.19:589][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] The property associated with  Tire 1  could not be found
+[2020.10.12-15.50.19:589][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] The property associated with  Revbeep  could not be found
+[2020.10.12-15.50.19:589][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] The property associated with  Engine Sound  could not be found
+[2020.10.12-15.50.19:589][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] The property associated with  Engine Sound  could not be found
+[2020.10.12-15.50.19:590][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] The property associated with  Hydraulic Sound  could not be found
+[2020.10.12-15.50.19:592][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] [0016.34] Compile of VehicleBlueprint failed. 51 Fatal Issue(s) 36 Warning(s) [in 27 ms] (/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint)
+[2020.10.12-15.50.19:594][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:594][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:594][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:595][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:595][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:595][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:597][  0]LogLinker: Warning: Can't find file '/Script/FMODStudio'
+[2020.10.12-15.50.19:597][  0]LogLinker: Warning: Can't find file for asset '/Script/FMODStudio' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset.
+[2020.10.12-15.50.19:597][  0]LoadErrors: Error: /Game/VehicleAdvBP/Blueprints/VehicleBlueprint : Can't find file for asset. /Script/FMODStudio
+[2020.10.12-15.50.19:875][  0]LogLinker: Warning: Can't find file '/Nasir/PitMiningAssets/Materials/BermInstances/MM_Berm_Inst'
+[2020.10.12-15.50.19:875][  0]LogLinker: Warning: Can't find file for asset '/Nasir/PitMiningAssets/Materials/BermInstances/MM_Berm_Inst' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Plugins/Nasir/Content/PitMiningAssets/Blueprints/BermSpline/MergedSplines/SM_MERGED_BermSplineX11Y07_04.uasset.
+[2020.10.12-15.50.19:875][  0]LoadErrors: Error: /Nasir/PitMiningAssets/Blueprints/BermSpline/MergedSplines/SM_MERGED_BermSplineX11Y07_04 : Can't find file for asset. /Nasir/PitMiningAssets/Materials/BermInstances/MM_Berm_Inst
+[2020.10.12-15.50.19:875][  0]LogLinker: Warning: Can't find file '/Nasir/PitMiningAssets/Materials/BermInstances/MM_Berm_Inst'
+[2020.10.12-15.50.19:875][  0]LogLinker: Warning: Can't find file for asset '/Nasir/PitMiningAssets/Materials/BermInstances/MM_Berm_Inst' while loading ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Plugins/Nasir/Content/PitMiningAssets/Blueprints/BermSpline/MergedSplines/SM_MERGED_BermSplineX11Y07_04.uasset.
+[2020.10.12-15.50.19:875][  0]LoadErrors: Error: /Nasir/PitMiningAssets/Blueprints/BermSpline/MergedSplines/SM_MERGED_BermSplineX11Y07_04 : Can't find file for asset. /Nasir/PitMiningAssets/Materials/BermInstances/MM_Berm_Inst
+[2020.10.12-15.50.19:991][  0]LogBlueprint: Warning: [Compiler PersistentLevel.MainLand] Node  Unknown  is not referencing a valid level actor
+[2020.10.12-15.50.19:992][  0]LogBlueprint: Warning: [Compiler PersistentLevel.MainLand] [0016.74] Compile of PersistentLevel.MainLand successful, but with 1 Warning(s) [in 3 ms] (/Nasir/PitMiningAssets/Maps/Sangaan/MainLand.MainLand:PersistentLevel.MainLand)
+[2020.10.12-15.50.22:284][  0]LogLinker: Warning: Can't find file '/Nasir/PitMiningAssets/Materials/BermInstances/MM_Berm_Inst'
+[2020.10.12-15.50.22:284][  0]LoadErrors: Failed to load /Nasir/PitMiningAssets/Materials/BermInstances/MM_Berm_Inst.MM_Berm_Inst Referenced by SM_MERGED_BermSplineX11Y07_04
+[2020.10.12-15.50.22:284][  0]LogLinker: Warning: Can't find file for asset '/Nasir/PitMiningAssets/Materials/BermInstances/MM_Berm_Inst' while loading NULL.
+[2020.10.12-15.50.22:285][  0]LoadErrors: Failed to load /Nasir/PitMiningAssets/Materials/BermInstances/MM_Berm_Inst.MM_Berm_Inst Referenced by SM_MERGED_BermSplineX11Y07_04
+[2020.10.12-15.50.22:285][  0]LogLinker: Warning: Can't find file '/Nasir/PitMiningAssets/Materials/BermInstances/MM_Berm_Inst'
+[2020.10.12-15.50.22:285][  0]LoadErrors: Failed to load /Nasir/PitMiningAssets/Materials/BermInstances/MM_Berm_Inst.MM_Berm_Inst Referenced by SM_MERGED_BermSplineX11Y07_04
+[2020.10.12-15.50.22:285][  0]LogLinker: Warning: Can't find file for asset '/Nasir/PitMiningAssets/Materials/BermInstances/MM_Berm_Inst' while loading NULL.
+[2020.10.12-15.50.22:285][  0]LoadErrors: Failed to load /Nasir/PitMiningAssets/Materials/BermInstances/MM_Berm_Inst.MM_Berm_Inst Referenced by SM_MERGED_BermSplineX11Y07_04
+[2020.10.12-15.50.22:529][  0]LogMaterial: Missing cached shader map for material MM_Road, compiling. 
+[2020.10.12-15.50.27:782][  0]LogAIModule: Creating AISystem for world MainLand
+[2020.10.12-15.50.27:830][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.12-15.50.27:840][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.12-15.50.27:887][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.386ms to complete.
+[2020.10.12-15.50.27:887][  0]LogFileHelpers: Loading map 'MainLand' took 8.574
+[2020.10.12-15.50.28:013][  0]LogCollectionManager: Loaded 0 collections in 0.002314 seconds
+[2020.10.12-15.50.28:095][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mahdi/Documents/GitHub/Landscape/Landscape/Saved/Collections/' took 0.01s
+[2020.10.12-15.50.28:095][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/Developers/Mahdi/Collections/' took 0.01s
+[2020.10.12-15.50.28:095][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/Collections/' took 0.01s
+[2020.10.12-15.50.28:095][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.10.12-15.50.28:102][  0]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2363 classes and 519 folders.
+[2020.10.12-15.50.28:175][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.12-15.50.28:204][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.12-15.50.28:254][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.10.12-15.50.28:424][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.12-15.50.28:425][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.12-15.50.28:429][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.12-15.50.28:498][  0]LogRenderer: Reallocating scene render targets to support 1220x680 Format 10 NumSamples 1 (Frame:1).
+[2020.10.12-15.50.28:656][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.10.12-15.50.28:657][  0]LogLoad: (Engine Initialization) Total time: 25.41 seconds
+[2020.10.12-15.50.28:657][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.12-15.50.28:658][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2020.10.12-15.50.28:658][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2020.10.12-15.50.29:040][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.12-15.50.29:114][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.10.12-15.50.29:348][  1]LogAssetRegistry: Asset discovery search completed in 19.6255 seconds
+[2020.10.12-15.50.29:350][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.10.12-15.50.29:350][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000035 seconds (updated 0 objects)
+[2020.10.12-15.50.42:999][355]LogSlate: Took 0.001287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.10.12-15.50.43:002][355]LogSlate: Took 0.001647 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.10.12-15.50.46:459][770]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.12-15.50.46:459][770]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.12-15.51.43:603][352]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.10.12-15.51.43:614][352]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Mahdi/Desktop/Sign.fbx)
+[2020.10.12-15.51.43:636][352]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2020.10.12-15.51.43:636][352]LogFbx: ItemName: Geometry, ItemCount : 1
+[2020.10.12-15.51.43:636][352]LogFbx: ItemName: Model, ItemCount : 1
+[2020.10.12-15.51.43:642][352]LogFbx: Loading FBX Scene from ../../../../../../Users/Mahdi/Desktop/Sign.fbx
+[2020.10.12-15.51.43:648][352]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.12-15.52.27:381][352]LogFbx: Loading FBX Scene from ../../../../../../Users/Mahdi/Desktop/Sign.fbx
+[2020.10.12-15.52.27:385][352]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.12-15.52.27:387][352]LogFbx: Warning: Triangulating static mesh Sign01.001
+[2020.10.12-15.52.27:405][352]LogStaticMesh: Building static mesh Sign...
+[2020.10.12-15.52.27:415][352]LogStaticMesh: Built static mesh [0.01s] /Nasir/PitMiningAssets/Statics/Signs/Sign/Sign.Sign
+[2020.10.12-15.52.27:427][352]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.12-15.52.30:895][677]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2020.10.12-15.52.45:650][354]LogActorFactory: Actor Factory created Sphere
+[2020.10.12-15.52.45:988][392]LogActorFactory: Actor Factory created Sphere
+[2020.10.12-15.52.58:558][191]LogAIModule: Creating AISystem for world FinalLand_x01_y15
+[2020.10.12-15.52.59:023][191]LogMaterial: Missing cached shader map for material MM_Landscape, compiling. 
+[2020.10.12-15.52.59:143][191]LogMaterial: Missing cached shader map for material MM_Berm, compiling. 
+[2020.10.12-15.52.59:903][191]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.12-15.52.59:982][191]LogMaterial: Missing cached shader map for material MM_Landscape, compiling. 
+[2020.10.12-15.53.00:139][191]LogAIModule: Creating AISystem for world FinalLand_x10_y06
+[2020.10.12-15.53.00:321][191]LogAIModule: Creating AISystem for world FinalLand_x10_y07
+[2020.10.12-15.53.00:455][191]LogAIModule: Creating AISystem for world FinalLand_x10_y08
+[2020.10.12-15.53.00:545][191]LogAIModule: Creating AISystem for world FinalLand_x10_y10
+[2020.10.12-15.53.02:005][191]LogAIModule: Creating AISystem for world FinalLand_x11_y07
+[2020.10.12-15.53.02:687][191]LogAIModule: Creating AISystem for world FinalLand_x11_y08
+[2020.10.12-15.53.02:843][191]LogAIModule: Creating AISystem for world FinalLand_x11_y09
+[2020.10.12-15.53.03:062][191]LogAIModule: Creating AISystem for world FinalLand_x11_y10
+[2020.10.12-15.53.03:976][191]LogAIModule: Creating AISystem for world FinalLand_x12_y08
+[2020.10.12-15.53.04:086][191]LogAIModule: Creating AISystem for world FinalLand_x12_y09
+[2020.10.12-15.53.04:180][191]LogAIModule: Creating AISystem for world FinalLand_x12_y10
+[2020.10.12-15.53.04:925][191]LogAIModule: Creating AISystem for world FinalLand_x13_y07
+[2020.10.12-15.53.05:279][191]LogAIModule: Creating AISystem for world FinalLand_x13_y08
+[2020.10.12-15.53.05:350][191]LogAIModule: Creating AISystem for world FinalLand_x13_y09
+[2020.10.12-15.53.05:389][191]LogMaterial: Missing cached shader map for material MM_Landscape, compiling. 
+[2020.10.12-15.53.05:534][191]LogAIModule: Creating AISystem for world FinalLand_x13_y10
+[2020.10.12-15.53.05:826][191]LogAIModule: Creating AISystem for world FinalLand_x14_y08
+[2020.10.12-15.53.05:865][191]LogMaterial: Missing cached shader map for material MM_Landscape, compiling. 
+[2020.10.12-15.53.06:011][191]LogAIModule: Creating AISystem for world FinalLand_x14_y09
+[2020.10.12-15.53.06:068][191]LogAIModule: Creating AISystem for world FinalLand_x14_y10
+[2020.10.12-15.53.06:170][191]LogAIModule: Creating AISystem for world FinalLand_x15_y08
+[2020.10.12-15.53.06:218][191]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.12-15.53.06:233][191]LogEditorActor: Deleted 1 Actors (7.751 secs)
+[2020.10.12-15.53.09:903][431]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.10.12-15.53.09:907][431]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.10.12-15.53.10:008][431]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.10.12-15.53.10:031][431]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.10.12-15.53.10:080][431]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.12-15.53.10:105][431]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.12-15.53.10:308][434]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.12-15.53.11:140][490]MaterialEditorStats: Base pass shader: 102 instructions
+[2020.10.12-15.53.11:140][490]MaterialEditorStats: Base pass shader with Surface Lightmap: 119 instructions
+[2020.10.12-15.53.11:140][490]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2020.10.12-15.53.11:140][490]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.10.12-15.53.11:140][490]MaterialEditorStats: Texture samplers: 3/16
+[2020.10.12-15.53.35:195][861]LogActorFactory: Actor Factory created Sphere
+[2020.10.12-15.53.35:509][897]LogActorFactory: Actor Factory created Sphere
+[2020.10.12-15.53.42:574][715]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.12-15.53.42:582][715]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.10.12-15.54.48:123][510]LogSavePackage: Save=11.87ms
+[2020.10.12-15.54.48:123][510]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Saved/Sign53426AFE460D8A612044ED90F6A727AA.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Plugins/Nasir/Content/PitMiningAssets/Statics/Signs/Sign/Sign.uasset'
+[2020.10.12-15.54.48:124][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Plugins/Nasir/Content/PitMiningAssets/Statics/Signs/Sign/Sign.uasset
+[2020.10.12-15.55.04:383][410]LogSavePackage: Save=11.85ms
+[2020.10.12-15.55.04:383][410]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Saved/SignA66E323E42D39D6A342CABAB2C449A6D.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Plugins/Nasir/Content/PitMiningAssets/Statics/Signs/Sign/Sign.uasset'
+[2020.10.12-15.55.04:385][410]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Plugins/Nasir/Content/PitMiningAssets/Statics/Signs/Sign/Sign.uasset
+[2020.10.12-15.59.11:459][432]LogEditorFactories: Performing atomic reimport of [C:/Users/Mahdi/Desktop/Sign.fbx]
+[2020.10.12-15.59.11:472][432]LogFbx: Loading FBX Scene from C:/Users/Mahdi/Desktop/Sign.fbx
+[2020.10.12-15.59.11:476][432]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.12-15.59.11:477][432]LogFbx: Warning: Triangulating static mesh Sign01.001
+[2020.10.12-15.59.11:498][432]LogStaticMesh: Building static mesh Sign...
+[2020.10.12-15.59.11:505][432]LogStaticMesh: Built static mesh [0.01s] /Nasir/PitMiningAssets/Statics/Signs/Sign/Sign.Sign
+[2020.10.12-15.59.11:513][432]LogEditorFactories: -- imported successfully
+[2020.10.12-15.59.11:515][432]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.12-15.59.11:523][432]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.10.12-15.59.57:029][846]LogSavePackage: Save=12.31ms
+[2020.10.12-15.59.57:029][846]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Saved/SignA96D66FE4C222BB27C3BA5A97E47D71B.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Plugins/Nasir/Content/PitMiningAssets/Statics/Signs/Sign/Sign.uasset'
+[2020.10.12-15.59.57:031][846]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Plugins/Nasir/Content/PitMiningAssets/Statics/Signs/Sign/Sign.uasset
+[2020.10.12-16.00.29:052][740]LogBlueprint: Warning: [Compiler PersistentLevel.MainLand] Node  Unknown  is not referencing a valid level actor
+[2020.10.12-16.00.29:053][740]LogBlueprint: Warning: [Compiler PersistentLevel.MainLand] [0625.80] Compile of PersistentLevel.MainLand successful, but with 1 Warning(s) [in 8 ms] (/Nasir/PitMiningAssets/Maps/Sangaan/MainLand.MainLand:PersistentLevel.MainLand)
+[2020.10.12-16.00.31:232][740]LogSavePackage: Save=2192.90ms
+[2020.10.12-16.00.31:232][740]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Saved/MainLand_Auto1D7EBBF6849CD22E3505477ABC1348B1F.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Saved/Autosaves/Nasir/PitMiningAssets/Maps/Sangaan/MainLand_Auto1.umap'
+[2020.10.12-16.00.31:233][740]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Saved/Autosaves/Nasir/PitMiningAssets/Maps/Sangaan/MainLand_Auto1.umap
+[2020.10.12-16.00.31:238][740]LogFileHelpers: Editor autosave (incl. sublevels) for '/Nasir/PitMiningAssets/Maps/Sangaan/MainLand' took 2.218
+[2020.10.12-16.00.31:238][740]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.218
+[2020.10.12-16.03.29:584][242]LogBlueprint: Warning: [Compiler PersistentLevel.MainLand] Node  Unknown  is not referencing a valid level actor
+[2020.10.12-16.03.29:585][242]LogBlueprint: Warning: [Compiler PersistentLevel.MainLand] [0806.34] Compile of PersistentLevel.MainLand successful, but with 1 Warning(s) [in 8 ms] (/Nasir/PitMiningAssets/Maps/Sangaan/MainLand.MainLand:PersistentLevel.MainLand)
+[2020.10.12-16.03.31:715][242]LogSavePackage: Save=2143.99ms
+[2020.10.12-16.03.31:715][242]LogSavePackage: Moving '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Saved/MainLand98363F4D4A93B4E6A477C9B9A48E04B6.tmp' to '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Plugins/Nasir/Content/PitMiningAssets/Maps/Sangaan/MainLand.umap'
+[2020.10.12-16.03.31:720][242]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Plugins/Nasir/Content/PitMiningAssets/Maps/Sangaan/MainLand.umap
+[2020.10.12-16.03.31:737][242]LogFileHelpers: Saving map 'MainLand' took 2.238
+[2020.10.12-16.03.31:971][243]Cmd: QUIT_EDITOR
+[2020.10.12-16.03.31:990][243]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.12-16.03.32:002][243]LogExit: Preparing to exit.
+[2020.10.12-16.03.33:041][243]LogDirectoryWatcher: A directory notification for 'C:/Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/' was aborted.
+[2020.10.12-16.03.33:076][243]LogExit: Editor shut down
+[2020.10.12-16.03.33:079][243]LogExit: Transaction tracking system shut down
+[2020.10.12-16.03.33:328][243]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2020.10.12-16.03.33:328][243]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/' was aborted.
+[2020.10.12-16.03.33:328][243]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2020.10.12-16.03.33:328][243]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2020.10.12-16.03.33:328][243]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2020.10.12-16.03.33:328][243]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2020.10.12-16.03.33:328][243]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2020.10.12-16.03.33:328][243]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Mahdi/Documents/GitHub/Landscape/Landscape/Plugins/Nasir/Content/' was aborted.
+[2020.10.12-16.03.33:397][243]LogExit: Object subsystem successfully closed.
+[2020.10.12-16.03.33:425][243]LogD3D11RHI: Shutdown
+[2020.10.12-16.03.33:426][243]LogD3D11RHI: CleanupD3DDevice
+[2020.10.12-16.03.33:429][243]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.10.12-16.03.33:456][243]LogModuleManager: Shutting down and abandoning module MaterialEditor (552)
+[2020.10.12-16.03.33:457][243]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (550)
+[2020.10.12-16.03.33:457][243]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2020.10.12-16.03.33:457][243]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2020.10.12-16.03.33:457][243]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2020.10.12-16.03.33:457][243]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2020.10.12-16.03.33:458][243]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2020.10.12-16.03.33:458][243]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2020.10.12-16.03.33:458][243]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2020.10.12-16.03.33:458][243]LogDirectoryWatcher: A directory notification for 'C:/Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/Collections/' was aborted.
+[2020.10.12-16.03.33:458][243]LogDirectoryWatcher: A directory notification for 'C:/Users/Mahdi/Documents/GitHub/Landscape/Landscape/Content/Developers/Mahdi/Collections/' was aborted.
+[2020.10.12-16.03.33:458][243]LogDirectoryWatcher: A directory notification for 'C:/Users/Mahdi/Documents/GitHub/Landscape/Landscape/Saved/Collections/' was aborted.
+[2020.10.12-16.03.33:458][243]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2020.10.12-16.03.33:458][243]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2020.10.12-16.03.33:459][243]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2020.10.12-16.03.33:459][243]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2020.10.12-16.03.33:460][243]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2020.10.12-16.03.33:460][243]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2020.10.12-16.03.33:460][243]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2020.10.12-16.03.33:460][243]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2020.10.12-16.03.33:460][243]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2020.10.12-16.03.33:460][243]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2020.10.12-16.03.33:460][243]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2020.10.12-16.03.33:460][243]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2020.10.12-16.03.33:460][243]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2020.10.12-16.03.33:460][243]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2020.10.12-16.03.33:460][243]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2020.10.12-16.03.33:461][243]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2020.10.12-16.03.33:461][243]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2020.10.12-16.03.33:461][243]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2020.10.12-16.03.33:461][243]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2020.10.12-16.03.33:461][243]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2020.10.12-16.03.33:462][243]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2020.10.12-16.03.33:462][243]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2020.10.12-16.03.33:462][243]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2020.10.12-16.03.33:462][243]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2020.10.12-16.03.33:462][243]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2020.10.12-16.03.33:462][243]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2020.10.12-16.03.33:462][243]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2020.10.12-16.03.33:462][243]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2020.10.12-16.03.33:462][243]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2020.10.12-16.03.33:462][243]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2020.10.12-16.03.33:462][243]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2020.10.12-16.03.33:462][243]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2020.10.12-16.03.33:462][243]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2020.10.12-16.03.33:462][243]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2020.10.12-16.03.33:463][243]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2020.10.12-16.03.33:464][243]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2020.10.12-16.03.33:465][243]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2020.10.12-16.03.33:466][243]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2020.10.12-16.03.33:466][243]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2020.10.12-16.03.33:466][243]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2020.10.12-16.03.33:466][243]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2020.10.12-16.03.33:907][243]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2020.10.12-16.03.33:907][243]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2020.10.12-16.03.33:907][243]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2020.10.12-16.03.33:907][243]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2020.10.12-16.03.33:909][243]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2020.10.12-16.03.33:909][243]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2020.10.12-16.03.33:909][243]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2020.10.12-16.03.33:909][243]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2020.10.12-16.03.33:910][243]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2020.10.12-16.03.33:910][243]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2020.10.12-16.03.33:910][243]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2020.10.12-16.03.33:910][243]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2020.10.12-16.03.33:910][243]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2020.10.12-16.03.33:910][243]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2020.10.12-16.03.33:910][243]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2020.10.12-16.03.33:910][243]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2020.10.12-16.03.33:910][243]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2020.10.12-16.03.33:911][243]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2020.10.12-16.03.33:911][243]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2020.10.12-16.03.33:911][243]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2020.10.12-16.03.33:911][243]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2020.10.12-16.03.33:911][243]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2020.10.12-16.03.33:912][243]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2020.10.12-16.03.33:912][243]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2020.10.12-16.03.33:967][243]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2020.10.12-16.03.33:967][243]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2020.10.12-16.03.33:968][243]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2020.10.12-16.03.33:968][243]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2020.10.12-16.03.33:968][243]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2020.10.12-16.03.33:968][243]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2020.10.12-16.03.33:968][243]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2020.10.12-16.03.33:969][243]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2020.10.12-16.03.33:969][243]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2020.10.12-16.03.33:969][243]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2020.10.12-16.03.33:970][243]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2020.10.12-16.03.33:970][243]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2020.10.12-16.03.33:970][243]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2020.10.12-16.03.33:971][243]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2020.10.12-16.03.33:971][243]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2020.10.12-16.03.33:971][243]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2020.10.12-16.03.33:971][243]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2020.10.12-16.03.33:971][243]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2020.10.12-16.03.33:971][243]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2020.10.12-16.03.33:971][243]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2020.10.12-16.03.33:971][243]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2020.10.12-16.03.33:971][243]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2020.10.12-16.03.33:971][243]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2020.10.12-16.03.33:971][243]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2020.10.12-16.03.33:971][243]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2020.10.12-16.03.33:971][243]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2020.10.12-16.03.33:972][243]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2020.10.12-16.03.33:972][243]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2020.10.12-16.03.33:972][243]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2020.10.12-16.03.33:972][243]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2020.10.12-16.03.34:129][243]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2020.10.12-16.03.34:129][243]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2020.10.12-16.03.34:129][243]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2020.10.12-16.03.34:129][243]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2020.10.12-16.03.34:130][243]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2020.10.12-16.03.34:130][243]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2020.10.12-16.03.34:130][243]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2020.10.12-16.03.34:130][243]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2020.10.12-16.03.34:130][243]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2020.10.12-16.03.34:130][243]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2020.10.12-16.03.34:130][243]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2020.10.12-16.03.34:130][243]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2020.10.12-16.03.34:131][243]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2020.10.12-16.03.34:131][243]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2020.10.12-16.03.34:131][243]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2020.10.12-16.03.34:131][243]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2020.10.12-16.03.34:131][243]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2020.10.12-16.03.34:131][243]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2020.10.12-16.03.34:132][243]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2020.10.12-16.03.34:132][243]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2020.10.12-16.03.34:132][243]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2020.10.12-16.03.34:133][243]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2020.10.12-16.03.34:133][243]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2020.10.12-16.03.34:133][243]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2020.10.12-16.03.34:133][243]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2020.10.12-16.03.34:133][243]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2020.10.12-16.03.34:134][243]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2020.10.12-16.03.34:134][243]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2020.10.12-16.03.34:134][243]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2020.10.12-16.03.34:135][243]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2020.10.12-16.03.34:135][243]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2020.10.12-16.03.34:135][243]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2020.10.12-16.03.34:135][243]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2020.10.12-16.03.34:135][243]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2020.10.12-16.03.34:135][243]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2020.10.12-16.03.34:136][243]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2020.10.12-16.03.34:136][243]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2020.10.12-16.03.34:136][243]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2020.10.12-16.03.34:137][243]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2020.10.12-16.03.34:137][243]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2020.10.12-16.03.34:137][243]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2020.10.12-16.03.34:137][243]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2020.10.12-16.03.34:137][243]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2020.10.12-16.03.34:137][243]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2020.10.12-16.03.34:137][243]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2020.10.12-16.03.34:137][243]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2020.10.12-16.03.34:238][243]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2020.10.12-16.03.34:339][243]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2020.10.12-16.03.34:339][243]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2020.10.12-16.03.34:339][243]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2020.10.12-16.03.34:339][243]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2020.10.12-16.03.34:340][243]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2020.10.12-16.03.34:340][243]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2020.10.12-16.03.34:340][243]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.10.12-16.03.34:340][243]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2020.10.12-16.03.34:340][243]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2020.10.12-16.03.34:341][243]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2020.10.12-16.03.34:342][243]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2020.10.12-16.03.34:342][243]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.10.12-16.03.34:342][243]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.10.12-16.03.34:342][243]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.10.12-16.03.34:342][243]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.10.12-16.03.34:342][243]LogModuleManager: Shutting down and abandoning module Media (221)
+[2020.10.12-16.03.34:348][243]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2020.10.12-16.03.34:348][243]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2020.10.12-16.03.34:348][243]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2020.10.12-16.03.34:348][243]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2020.10.12-16.03.34:349][243]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2020.10.12-16.03.34:349][243]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2020.10.12-16.03.34:350][243]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2020.10.12-16.03.34:350][243]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2020.10.12-16.03.34:351][243]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2020.10.12-16.03.34:351][243]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2020.10.12-16.03.34:351][243]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2020.10.12-16.03.34:352][243]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2020.10.12-16.03.34:353][243]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2020.10.12-16.03.34:353][243]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2020.10.12-16.03.34:354][243]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2020.10.12-16.03.34:354][243]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2020.10.12-16.03.34:356][243]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.10.12-16.03.34:356][243]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.10.12-16.03.34:356][243]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.10.12-16.03.34:356][243]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.10.12-16.03.34:356][243]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.10.12-16.03.34:356][243]LogModuleManager: Shutting down and abandoning module Core (172)
+[2020.10.12-16.03.34:356][243]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2020.10.12-16.03.34:356][243]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2020.10.12-16.03.34:356][243]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2020.10.12-16.03.34:356][243]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2020.10.12-16.03.34:357][243]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2020.10.12-16.03.34:357][243]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2020.10.12-16.03.34:357][243]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2020.10.12-16.03.34:357][243]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2020.10.12-16.03.34:357][243]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2020.10.12-16.03.34:357][243]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2020.10.12-16.03.34:358][243]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2020.10.12-16.03.34:438][243]LogDerivedDataCache: Shutdown
+[2020.10.12-16.03.34:438][243]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2020.10.12-16.03.34:438][243]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2020.10.12-16.03.34:439][243]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2020.10.12-16.03.34:439][243]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2020.10.12-16.03.34:439][243]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2020.10.12-16.03.34:439][243]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2020.10.12-16.03.34:439][243]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2020.10.12-16.03.34:439][243]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2020.10.12-16.03.34:440][243]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2020.10.12-16.03.34:441][243]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2020.10.12-16.03.34:441][243]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2020.10.12-16.03.34:441][243]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2020.10.12-16.03.34:441][243]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2020.10.12-16.03.34:441][243]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2020.10.12-16.03.34:442][243]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2020.10.12-16.03.34:442][243]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.10.12-16.03.34:442][243]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0DF01476-4DE3-1B66-1269-99AC956CE537%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=5e33bab64c8bb91498c41faf654ccad2%7Ce0452c26188244bf8e7dfeb5fc36c05b%7C886ddcee-47f4-4f32-8a69-8dea6d4dc622&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.10.12-16.03.34:468][243]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2020.10.12-16.03.34:470][243]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.10.12-16.03.34:471][243]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.10.12-16.03.34:471][243]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.10.12-16.03.34:471][243]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.10.12-16.03.34:472][243]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.10.12-16.03.34:472][243]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.10.12-16.03.34:472][243]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.10.12-16.03.34:475][243]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.10.12-16.03.34:475][243]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.10.12-16.03.34:475][243]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.10.12-16.03.34:475][243]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.10.12-16.03.34:475][243]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.10.12-16.03.34:475][243]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.10.12-16.03.34:475][243]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.10.12-16.03.34:475][243]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.10.12-16.03.34:475][243]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.10.12-16.03.34:475][243]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.10.12-16.03.34:476][243]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.10.12-16.03.34:480][243]LogExit: Exiting.
+[2020.10.12-16.03.34:489][243]Log file closed, 10/12/20 19:33:34
